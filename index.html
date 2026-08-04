@@ -7,21 +7,27 @@
   <title>Bönisch Lead-Dashboard</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header class="topbar">
-    <div>
-      <p class="eyebrow">Bönisch Antriebselemente</p>
+    <a class="brand" href="https://www.aeboenisch.de/" target="_blank" rel="noopener" aria-label="Bönisch Antriebselemente Website öffnen">
+      <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span class="brand-name">BÖNISCH</span>
+      <span class="brand-subline">ANTRIEBSELEMENTE</span>
+    </a>
+    <div class="topbar-title">
+      <p class="eyebrow">Vertrieb · Neukundengewinnung</p>
       <h1>Lead-Dashboard</h1>
     </div>
-    <a class="source-link" href="https://docs.google.com/spreadsheets/d/1vACz2ZqMTpuXRPDAwhgUAmm2Z7SXEdKju7XOlFN7Fks/edit" target="_blank" rel="noopener">Datenquelle öffnen ↗</a>
+    <a class="source-link" href="https://docs.google.com/spreadsheets/d/1vACz2ZqMTpuXRPDAwhgUAmm2Z7SXEdKju7XOlFN7Fks/edit" target="_blank" rel="noopener">Datenquelle öffnen <span aria-hidden="true">↗</span></a>
   </header>
 
   <main>
     <section class="overview" aria-labelledby="overview-title">
-      <div>
+      <div class="overview-copy">
+        <p class="section-kicker">Aktueller Datenstand</p>
         <h2 id="overview-title">Fortlaufende Neukundenliste</h2>
         <p>Gespeicherter Tabellenstand vom <span id="latest-date">–</span>. Suche, Filter und Sortierung laufen vollständig im Browser.</p>
       </div>
@@ -33,10 +39,7 @@
     </section>
 
     <section class="controls" aria-label="Lead-Filter">
-      <label class="search-field">
-        <span>Suche</span>
-        <input id="search" type="search" placeholder="Unternehmen, Branche, Standort …" autocomplete="off">
-      </label>
+      <label class="search-field"><span>Suche</span><input id="search" type="search" placeholder="Unternehmen, Branche, Standort …" autocomplete="off"></label>
       <label><span>Branche</span><select id="industry-filter"><option value="">Alle Branchen</option></select></label>
       <label><span>Region</span><select id="region-filter"><option value="">Alle Regionen</option></select></label>
       <label><span>Priorität</span><select id="priority-filter"><option value="">Alle Prioritäten</option></select></label>
@@ -45,34 +48,25 @@
     </section>
 
     <p id="result-status" class="result-status" aria-live="polite"></p>
-
     <section class="table-shell" aria-label="Lead-Tabelle">
       <table>
-        <thead>
-          <tr>
-            <th><button data-sort="company">Unternehmen <span>↕</span></button></th>
-            <th><button data-sort="location">Standort <span>↕</span></button></th>
-            <th><button data-sort="industry">Branche <span>↕</span></button></th>
-            <th><button data-sort="score">Relevanz <span>↕</span></button></th>
-            <th><button data-sort="priority">Priorität <span>↕</span></button></th>
-            <th>Bedarfssignale</th>
-            <th>Nächster Schritt</th>
-            <th><button data-sort="date">Datum <span>↕</span></button></th>
-          </tr>
-        </thead>
+        <thead><tr>
+          <th><button data-sort="company">Unternehmen <span>↕</span></button></th>
+          <th><button data-sort="location">Standort <span>↕</span></button></th>
+          <th><button data-sort="industry">Branche <span>↕</span></button></th>
+          <th><button data-sort="score">Relevanz <span>↕</span></button></th>
+          <th><button data-sort="priority">Priorität <span>↕</span></button></th>
+          <th>Bedarfssignale</th><th>Nächster Schritt</th>
+          <th><button data-sort="date">Datum <span>↕</span></button></th>
+        </tr></thead>
         <tbody id="lead-rows"></tbody>
       </table>
       <div id="empty-state" class="empty-state" hidden>Keine Leads entsprechen den gewählten Filtern.</div>
     </section>
   </main>
 
-  <footer>
-    <span>Öffentliche Arbeitsansicht ohne personenbezogene Kontaktdaten</span>
-    <span>Quelle: Bönisch fortlaufende Neukundenliste</span>
-  </footer>
-
+  <footer><span>Öffentliche Arbeitsansicht ohne personenbezogene Kontaktdaten</span><span>Quelle: Bönisch fortlaufende Neukundenliste</span></footer>
   <script src="data.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
-
