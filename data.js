@@ -588,7 +588,7 @@ window.LEADS = [
     "company": "GEA Group Aktiengesellschaft / Food Processing & Packaging",
     "website": "https://www.gea.com/",
     "region": "Deutschland / Nordrhein-Westfalen; international",
-    "location": "Düsseldorf; relevante europäische Food-Processing- und Packaging-Standorte",
+    "location": "Düsseldorf (Konzernsitz); relevante europäische Food-Processing- und Packaging-Standorte",
     "industry": "Lebensmittel- und Pharma-Maschinenbau, Verpackungstechnik, Prozessanlagen",
     "description": "Internationaler Technologieanbieter für Maschinen, Anlagen, Komponenten und Services in Lebensmittel, Getränke und Pharma; integrierte Verarbeitungs- und Verpackungslinien.",
     "need": "Starkes aktuelles Signal: Markteinführung des PowerPak 5000 zur interpack 2026, integriert mit OptiSlicer, OptiLoader und PowerLabel zu einer synchronisierten Linie bis 600 kg/h; mehrere weitere Maschinenneuheiten 2026. Keine externe Beschaffungsabsicht belegt.",
@@ -614,7 +614,7 @@ window.LEADS = [
     "sources": "https://www.groninger-group.com/en/company/about-groninger/ ; https://www.groninger-group.com/en/news-downloads/press-releases/ ; https://www.groninger-group.com/en/services/service-portfolio/",
     "date": "2026-08-05"
   },
-{
+  {
     "company": "ROVEMA GmbH",
     "website": "https://www.rovema.com/",
     "region": "Deutschland / Hessen",
@@ -629,7 +629,7 @@ window.LEADS = [
     "sources": "https://www.rovema.com/en/company/newsroom/detail/ ; https://jobs.rovema.com/de?id=de8a00",
     "date": "2026-08-10"
   },
-{
+  {
     "company": "SOMIC Verpackungsmaschinen GmbH & Co. KG",
     "website": "https://www.somic-packaging.com/",
     "region": "Deutschland / Bayern",
@@ -644,7 +644,7 @@ window.LEADS = [
     "sources": "https://apac.somic-packaging.com/company/news/somic-at-interpack-2026/ ; https://www.somic-packaging.com/en/company/about-somic/",
     "date": "2026-08-10"
   },
-{
+  {
     "company": "Körber Pharma Packaging AG / Körber Business Area Pharma",
     "website": "https://www.koerber-pharma.com/",
     "region": "Schweiz / St. Gallen; Deutschland und Ungarn",
@@ -659,7 +659,7 @@ window.LEADS = [
     "sources": "https://service.koerber-pharma.com/interpack-2026 ; https://www.koerber-pharma.com/en/about-us/locations ; https://www.koerber-pharma.com/en/blog/a-state-of-the-art-production-facility-in-the-heart-of-europe",
     "date": "2026-08-10"
   },
-{
+  {
     "company": "Herbold Meckesheim GmbH / Coperion Recycling",
     "website": "https://www.coperion.com/",
     "region": "Deutschland / Baden-Württemberg",
@@ -674,20 +674,79 @@ window.LEADS = [
     "sources": "https://coperion.com/media/hqddig3q/herbold_doga_washingline_en.pdf ; https://www.coperion.com/de/unternehmen/ueber-coperion",
     "date": "2026-08-10"
   },
-{
+  {
     "company": "KHS GmbH / KHS Group",
     "website": "https://www.khs.com/",
-    "region": "Deutschland / Nordrhein-Westfalen; weitere deutsche Werke",
-    "location": "Dortmund; Bad Kreuznach; Kleve; Worms; Hamburg",
+    "region": "Deutschland / Nordrhein-Westfalen; relevanter Produktionsstandort Hamburg",
+    "location": "Dortmund; Bad Kreuznach; Kleve; Worms; Hamburg (rund 450 Mitarbeitende)",
     "industry": "Abfüll- und Verpackungsmaschinen, Anlagenbau, Automatisierung",
-    "description": "Entwickelt und fertigt Hochleistungs-Abfüll- und Verpackungssysteme sowie schlüsselfertige Linien für Getränke, Lebensmittel und Non-Food.",
-    "need": "Starkes aktuelles Signal: 2026 neue BottleClip-Anwendung für die Innopack-Kisters-Advanced-Baureihe und ganzheitliche Turnkey-Linien; zusätzlich 195 standardisierte technische Upgrades für bestehende Maschinen. Keine externe Beschaffungsabsicht belegt.",
-    "fit": "Antriebstechnik; Zahnriemen/Zahnriemenscheiben für Hochleistungs-Transport- und Verpackungsachsen; CNC-Lohnfertigung/Sonder-/Umrüstteile; Baugruppenfertigung",
-    "relevance": "91/100 - A-Lead: neue Verpackungsoption, breites Retrofit-Programm, hohe operative Größe und klarer Fit zu Antriebs-, Sonderteil- und Baugruppenbedarf.",
+    "description": "Entwickelt und fertigt Hochleistungs-Abfüll- und Verpackungssysteme sowie schlüsselfertige Linien; Hamburg entwickelt und baut Streckblasmaschinen und Beschichtungstechnologien.",
+    "need": "Starkes aktuelles Signal: 2026 neue BottleClip-Anwendung und breites Retrofit-Programm; am Standort Hamburg neue Generation der InnoPET-Blomax-Streckblasmaschinen sowie aktuelle FreshSafe-Block-Technik. Keine externe Beschaffungsabsicht belegt.",
+    "fit": "Antriebstechnik; Zahnriemen/Zahnriemenscheiben für Hochleistungs-Transport-, Blas- und Verpackungsachsen; CNC-Lohnfertigung/Sonder-/Umrüstteile; Baugruppenfertigung",
+    "relevance": "92/100 - A-Lead: neue Maschinen- und Retrofit-Signale, klarer Hamburger Produktionsbezug und sehr hoher Fit zu Antriebs-, Sonderteil- und Baugruppenbedarf.",
     "priority": "A",
-    "next": "Relevantes Kisters-Werk und Beschaffung für Advanced-Serie/Retrofits bestimmen; Ansatz über verschleiß- und formatabhängige Sonderteile, Antriebselemente und vormontierte Einheiten testen.",
-    "sources": "https://www.khs.com/en/company/news/press-releases/detail/from-the-packaging-to-the-line ; https://www.khs.com/en/company/news/press-releases/detail/future-proof-with-the-khs-conversion-catalog ; https://www.khs.com/en/company/about-us",
+    "next": "Beschaffungszuständigkeit des Hamburger Werks für InnoPET-Technik klären; Ansatz über verschleiß-/formatabhängige Sonderteile, Antriebselemente und vormontierte Einheiten testen.",
+    "sources": "https://www.khs.com/en/company/news/press-releases/detail/from-the-packaging-to-the-line ; https://www.khs.com/en/company/news/press-releases/detail/future-proof-with-the-khs-conversion-catalog ; https://www.khs.com/en/company/about-us ; https://www.khs.com/unternehmen/aktuelles/pressemitteilungen/detail/jubilaeum-bei-khs-hamburg-50-jahre-pionierarbeit-und-ein-starkes-team-fuer-die-zukunft ; https://www.khs.com/fileadmin/user_upload/InnoPET_FreshSafe_Block_mit_Plasmax_20Q.pdf",
+    "date": "2026-08-10"
+  },
+  {
+    "company": "AMF-Bruns GmbH & Co. KG",
+    "website": "https://amf-foerderanlagen.de/",
+    "region": "Deutschland / Niedersachsen",
+    "location": "Apen",
+    "industry": "Fördertechnik, Maschinen- und Anlagenbau",
+    "description": "Entwickelt und fertigt kundenspezifische Förder- und Schüttgutanlagen, darunter Band-, Ketten- und Schneckenförderer, Becherwerke und Dosiertechnik.",
+    "need": "Starkes aktuelles Signal: AMF-Bruns meldete 2025 den größten Einzelauftrag der Unternehmensgeschichte im Förderanlagenbereich mit knapp 15 Mio. Euro und leitete die Anschaffung einer neuen Laseranlage ein. Das deutet auf hohe Projekt- und Fertigungsaktivität, belegt aber keine externe Beschaffungsabsicht.",
+    "fit": "Antriebstechnik; CNC-Lohnfertigung/Sonderteile; Baugruppenfertigung; Zahnriemen/Zahnriemenscheiben für Neben- und Positionierachsen als Prüfpunkt",
+    "relevance": "91/100 - A-Lead: sehr direkter Fördertechnikfit, starkes aktuelles Auftrags- und Investitionssignal sowie bestätigte Größe.",
+    "priority": "A",
+    "next": "Beschaffung für laufende Förderanlagenprojekte und Kapazitätsspitzen qualifizieren; Einstieg über projektspezifische Sonderteile, Antriebselemente und vormontierte mechanische Einheiten.",
+    "sources": "https://amf-foerderanlagen.de/geschichte/ ; https://amf-foerderanlagen.de/wp-content/uploads/2025/08/25-0020_AMF_TeAMForum_01-2025.pdf ; https://amf-foerderanlagen.de/en/continuous-conveyors/",
+    "date": "2026-08-10"
+  },
+  {
+    "company": "SCHULZ Systemtechnik GmbH",
+    "website": "https://schulz.st/",
+    "region": "Deutschland / Niedersachsen und Bremen",
+    "location": "Visbek; Bremen",
+    "industry": "Automatisierung, Robotik, Sondermaschinenbau",
+    "description": "Entwickelt und realisiert interdisziplinäre Automatisierungslösungen aus Mechanik, Elektrotechnik und Informatik, einschließlich Sondermaschinen und Robotikzellen.",
+    "need": "Starkes aktuelles Signal: 2026 veröffentlichte SCHULZ eine modulare hochautomatisierte Sondermaschine mit 6-Achs-Roboter, Zuführung, Bearbeitung, Prüfung und Tray-Verpackung. Zusätzlich wurde ein Großprojekt mit 34 Robotern und Schubplattformkreislauf umgesetzt. Keine externe Beschaffungsabsicht belegt.",
+    "fit": "CNC-Lohnfertigung/Sonderteile; Baugruppenfertigung; Antriebstechnik; Zahnriemen/Zahnriemenscheiben für Linear- und Handlingachsen als Prüfpunkt",
+    "relevance": "88/100 - A-Lead: hohe Varianten- und Baugruppenkomplexität, aktuelle Robotikprojekte und bestätigte operative Größe.",
+    "priority": "A",
+    "next": "Mechanische Fremdvergabe am Standort Bremen prüfen; mit Bezug auf modulare Sondermaschinen, Greifer-/Vorrichtungsteile und vormontierte Baugruppen ansprechen.",
+    "sources": "https://schulz.st/unternehmen/ ; https://schulz.st/automatisierungsloesung-fuer-outsert-technologie/ ; https://schulz.st/nur-roboter-sind-schneller/",
+    "date": "2026-08-10"
+  },
+  {
+    "company": "OAS AG",
+    "website": "https://www.oas.de/",
+    "region": "Deutschland / Bremen",
+    "location": "Bremen",
+    "industry": "Anlagenbau, Förder-, Dosier- und Automatisierungstechnik",
+    "description": "Plant und realisiert Produktionsanlagen für Schüttgüter und flüssige Medien einschließlich Förder-, Lager-, Misch-, Dosier- und Abfülltechnik sowie Modernisierungen.",
+    "need": "Starkes aktuelles Signal: OAS meldete 2025 ein konkretes Projekt für ein Tanklager samt Förderanlage, Engineering, Automatisierung und Montage. Eine Leistungsübersicht von 2025 nennt Fertigung und kundenspezifisch angepasste modulare Einheiten. Keine externe Beschaffungsabsicht belegt.",
+    "fit": "Antriebstechnik; CNC-Lohnfertigung/Sonderteile; Baugruppenfertigung; Zahnriemen/Zahnriemenscheiben für Nebenachsen als Prüfpunkt",
+    "relevance": "83/100 - A-Lead: konkrete Förderanlagenprojekte, mittelständische Struktur und guter Sonderteil-/Baugruppenfit.",
+    "priority": "A",
+    "next": "Zentralen technischen Einkauf und selbst beschaffte mechanische Materialgruppen klären; Einstieg über Förder-/Dosiermodule und projektspezifische Sonderteile.",
+    "sources": "https://www.oas.de/fileadmin/user_upload/OAS_AG/Downloads/OAS_Bewerberbroschuere_DE.pdf ; https://www.oas.de/anlagenbau ; https://www.oas.de/neuigkeit/tanklager-und-foerderanlage-fuer-global-taetigen-baustoffproduzenten ; https://www.oas.de/fileadmin/user_upload/OAS_AG/Downloads/OAS_PRO16_Kompetenz_im_Anlagenbau-DE_web.pdf",
+    "date": "2026-08-10"
+  },
+  {
+    "company": "STILL GmbH",
+    "website": "https://www.still.de/",
+    "region": "Deutschland / Hamburg",
+    "location": "Hamburg",
+    "industry": "Intralogistik, Flurförderzeuge, mobile Robotik",
+    "description": "Entwickelt und fertigt Flurförderzeuge, Lagertechnik sowie automatisierte und vernetzte Intralogistiksysteme.",
+    "need": "Starkes aktuelles Signal: STILL industrialisierte 2025 mehrere automatisierte Serienfahrzeuge auf Basis modularer standardisierter Komponenten. 2026 folgte eine automatisierte Tiefkühllösung mit Hochhubwagen und Paletten-Shuttle-System mit 3.700 Stellplätzen. Keine externe Beschaffungsabsicht belegt.",
+    "fit": "CNC-Lohnfertigung/Sonderteile; Baugruppenfertigung; Antriebstechnik; Zahnriemen/Zahnriemenscheiben als technischer Prüfpunkt",
+    "relevance": "81/100 - A-Lead: unmittelbarer Intralogistik- und Automationsfit mit aktuellem Serienhochlauf; Zugang wegen Konzernbeschaffung anspruchsvoll.",
+    "priority": "A",
+    "next": "Zuständige Warengruppe für mechanische Komponenten der iGo-Fahrzeuge und Shuttle-Systeme ermitteln; Lieferantenqualifizierung und Make-or-buy prüfen.",
+    "sources": "https://www.still.de/unternehmen.html ; https://data.still.de/assets/products/News/2026/Global/Pre-Report_LogiMAT_2026/DE_STILL_Pressemitteilung_Vorbericht_LogiMAT_2026.pdf?download=1 ; https://www.still.de/unternehmen/news-presse/news/detail/skalierbar-verfuegbar-industrialisiert-still-praesentiert-smartes-automatisierungsportfolio-fuer-jedes-einsatzszenario.html ; https://www.still.de/unternehmen/news-presse/news/detail/eine-vollautomatisierte-tiefkuehllogistik-fuer-das-block-logistik-fertigwarenlager.html",
     "date": "2026-08-10"
   }
-
 ];
