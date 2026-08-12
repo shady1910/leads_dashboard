@@ -27,7 +27,7 @@
     try { const url = new URL(value); return ["http:", "https:"].includes(url.protocol) ? url.href : ""; }
     catch { return ""; }
   };
-  const firstSource = value => String(value || "").split(";").map(v => v.trim()).find(validUrl) || "";
+  const firstSource = value => String(value || "").split(/[;|]/).map(v => v.trim()).find(validUrl) || "";
 
   const fillSelect = (select, values) => {
     [...new Set(values.filter(Boolean))].sort((a,b) => a.localeCompare(b, "de")).forEach(value => {
