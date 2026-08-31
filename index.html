@@ -12,59 +12,30 @@
 </head>
 <body>
   <header class="topbar">
-    <a class="brand" href="https://www.aeboenisch.de/" target="_blank" rel="noopener" aria-label="Bönisch Antriebselemente Website öffnen">
-      <img class="brand-logo" src="Logo_new.jpg" alt="Bönisch Antriebselemente">
-    </a>
-    <div class="topbar-title">
-      <p class="eyebrow">Vertrieb · Neukundengewinnung</p>
-      <h1>Lead-Dashboard</h1>
-    </div>
-    <a class="source-link" href="https://aeboenisch.sharepoint.com/sites/Vertrieb_79d3a5/Freigegebene%20Dokumente/Neukunden/Leadliste.xlsx" target="_blank" rel="noopener">Datenquelle öffnen <span aria-hidden="true">↗</span></a>
+    <a class="brand" href="https://www.aeboenisch.de/" target="_blank" rel="noopener" aria-label="Bönisch Antriebselemente Website öffnen"><img class="brand-logo" src="Logo_new.jpg" alt="Bönisch Antriebselemente"></a>
+    <div class="topbar-title"><p class="eyebrow">Vertrieb · Neukundengewinnung</p><h1>Lead-Dashboard</h1></div>
+    <span class="source-link" aria-label="Bestätigter Datenstand vom 31. August 2026">Datenstand 31.08.2026</span>
   </header>
-
   <main>
     <section class="overview" aria-labelledby="overview-title">
-      <div class="overview-copy">
-        <p class="section-kicker">Aktueller Datenstand</p>
-        <h2 id="overview-title">Fortlaufende Neukundenliste</h2>
-        <p>Gespeicherter Tabellenstand vom <span id="latest-date">–</span>. Suche, Filter und Sortierung laufen vollständig im Browser.</p>
-      </div>
-      <div class="metrics" aria-label="Kennzahlen">
-        <div><strong id="visible-count">0</strong><span>sichtbar</span></div>
-        <div><strong id="total-count">0</strong><span>gesamt</span></div>
-        <div><strong id="a-count">0</strong><span>A-Priorität</span></div>
-      </div>
+      <div class="overview-copy"><p class="section-kicker">Aktueller Datenstand</p><h2 id="overview-title">Fortlaufende Neukundenliste</h2><p>Gespeicherter Tabellenstand vom <span id="latest-date">–</span>. Status und Kontaktdatum sind hier lesbar; Änderungen erfolgen in der SharePoint-Leadliste.</p></div>
+      <div class="metrics" aria-label="Kennzahlen"><div><strong id="visible-count">0</strong><span>sichtbar</span></div><div><strong id="total-count">0</strong><span>gesamt</span></div><div><strong id="a-count">0</strong><span>A-Priorität</span></div></div>
     </section>
-
     <section class="controls" aria-label="Lead-Filter">
       <label class="search-field"><span>Suche</span><input id="search" type="search" placeholder="Unternehmen, Branche, Standort …" autocomplete="off"></label>
       <label><span>Branche</span><select id="industry-filter"><option value="">Alle Branchen</option></select></label>
       <label><span>Region</span><select id="region-filter"><option value="">Alle Regionen</option></select></label>
       <label><span>Priorität</span><select id="priority-filter"><option value="">Alle Prioritäten</option></select></label>
       <label><span>Relevanz</span><select id="relevance-filter"><option value="">Alle Bewertungen</option><option value="90">90+</option><option value="80">80–89</option><option value="70">70–79</option></select></label>
+      <label><span>Status</span><select id="status-filter"><option value="">Alle Status</option></select></label>
       <button id="reset" type="button">Filter zurücksetzen</button>
     </section>
-
     <p id="result-status" class="result-status" aria-live="polite"></p>
-    <section class="table-shell" aria-label="Lead-Tabelle">
-      <table>
-        <thead><tr>
-          <th><button data-sort="company">Unternehmen <span>↕</span></button></th>
-          <th><button data-sort="location">Standort <span>↕</span></button></th>
-          <th><button data-sort="industry">Branche <span>↕</span></button></th>
-          <th><button data-sort="score">Relevanz <span>↕</span></button></th>
-          <th><button data-sort="priority">Priorität <span>↕</span></button></th>
-          <th>Bedarfssignale</th><th>Nächster Schritt</th>
-          <th><button data-sort="date">Datum <span>↕</span></button></th>
-        </tr></thead>
-        <tbody id="lead-rows"></tbody>
-      </table>
-      <div id="empty-state" class="empty-state" hidden>Keine Leads entsprechen den gewählten Filtern.</div>
-    </section>
+    <section class="table-shell" aria-label="Lead-Tabelle"><table><thead><tr>
+      <th><button data-sort="company">Unternehmen <span>↕</span></button></th><th><button data-sort="location">Standort <span>↕</span></button></th><th><button data-sort="industry">Branche <span>↕</span></button></th><th><button data-sort="score">Relevanz <span>↕</span></button></th><th><button data-sort="priority">Priorität <span>↕</span></button></th><th><button data-sort="status">Status <span>↕</span></button></th><th>Bedarfssignale</th><th>Nächster Schritt</th><th><button data-sort="date">Datum <span>↕</span></button></th>
+    </tr></thead><tbody id="lead-rows"></tbody></table><div id="empty-state" class="empty-state" hidden>Keine Leads entsprechen den gewählten Filtern.</div></section>
   </main>
-
   <footer><span>Öffentliche Arbeitsansicht ohne personenbezogene Kontaktdaten</span><span>Quelle: Bönisch fortlaufende Neukundenliste</span></footer>
-  <script src="data.js"></script>
-  <script src="app.js"></script>
+  <script src="data.js"></script><script src="app.js"></script>
 </body>
 </html>
