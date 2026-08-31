@@ -1289,7 +1289,7 @@ window.LEADS = [
     "contactDate": "",
     "next": "Einkaufsorganisation in Lengerich zu Zeichnungsteilen, Riemen-/Scheibenlösungen und vormontierten Einheiten für Extrusions-, Druck- und Convertingmaschinen qualifizieren.",
     "sources": "https://www.wh.group/int/en/company/w_h_group/ | https://www.wh.group/de/unternehmen/news_events/e_magazin/windmoeller_hoelscher_zeigt_varex_ii_und_alphaflex_auf_der_k_2025/",
-    "date": 46265
+    "date": "2026-08-31"
   },
   {
     "company": "Trützschler Group SE",
@@ -1306,7 +1306,7 @@ window.LEADS = [
     "contactDate": "",
     "next": "Einkaufsweg für Mönchengladbach und Dülmen klären; Fokus auf Präzisionssonderteile und mechanische Baugruppen für Faser- und Nonwovens-Anlagen.",
     "sources": "https://jobs.truetzschler.com/berufserfahrene/offer/initiativbewerbung-m-w-d/632423f9-8b2e-4285-8668-5332c116cc1e | https://www.truetzschler.com/en/locations/",
-    "date": 46265
+    "date": "2026-08-31"
   },
   {
     "company": "Kampf GmbH",
@@ -1323,7 +1323,7 @@ window.LEADS = [
     "contactDate": "",
     "next": "Direkten Einkaufskanal in Wiehl nutzen und Bedarf für mechanische Komponenten, Baugruppen und Antriebselemente der Slitter-/Winder-Plattformen qualifizieren.",
     "sources": "https://www.kampf.de/fileadmin/Downloads/Jagenberg_Group/3_Newsroom/2025-08-07_Kampf_Pressemitteilung_engl.pdf | https://www.kampf.de/de/newsroom/news/einzel-news/news/fundament-fuer-fortschritt/ | https://www.kampf.de/de/kontakt/",
-    "date": 46265
+    "date": "2026-08-31"
   },
   {
     "company": "Hymmen GmbH Maschinen- und Anlagenbau",
@@ -1340,7 +1340,7 @@ window.LEADS = [
     "contactDate": "",
     "next": "Projektbeschaffung für Förder-, Pressen- und Handlingmodule prüfen; Einstieg über Zeichnungsteile, Riemenscheiben und vormontierte mechanische Einheiten.",
     "sources": "https://www.hymmen.com/de/karriere/ | https://preprod.hymmen.com/fileadmin/user_upload/Info_Downloads/Prospekte/Blaetterkataloge/catalogs/Hymmen_Press_Review_2025/pdf/complete.pdf",
-    "date": 46265
+    "date": "2026-08-31"
   },
   {
     "company": "Maschinenfabrik Köppern GmbH & Co. KG",
@@ -1357,7 +1357,7 @@ window.LEADS = [
     "contactDate": "",
     "next": "Nur als B-Lead prüfen: mögliche Fremdvergabe bei Kapazitätsspitzen und Zukauf standardisierter Antriebselemente abklären; Wettbewerbsabgrenzung vor Ansprache.",
     "sources": "https://koeppern-international.com/en/technologie/manufacturing/ | https://www.koeppern-international.com/locations/germany/hattingen/",
-    "date": 46265
+    "date": "2026-08-31"
   },
   {
     "company": "RIPPERT GmbH & Co. KG",
@@ -1374,7 +1374,7 @@ window.LEADS = [
     "contactDate": "",
     "next": "Technischen Einkauf mit konkretem Bezug auf Förderachsen, Zahnriemen/-scheiben, Zeichnungsteile und vormontierte mechanische Einheiten qualifizieren.",
     "sources": "https://www.rippert.de/ueber-uns | https://www.rippert.de/karriere/stellenangebote/7/monteur-fuer-industriemontagen-mwd | https://www.rippert.de/karriere/einblicke/marco-frasch",
-    "date": 46265
+    "date": "2026-08-31"
   },
   {
     "company": "Saurer Spinning Solutions GmbH & Co. KG",
@@ -1391,7 +1391,7 @@ window.LEADS = [
     "contactDate": "",
     "next": "Beschaffung in Übach-Palenberg zu Antriebselementen, Präzisionssonderteilen und Baugruppen der Autocoro-Plattform qualifizieren.",
     "sources": "https://saurer.com/media/6619/download/2025-03-17_Press_Release_Autocoro_11_Driven_by_innovation.pdf?inline=true&v=2 | https://www.academy.saurer.com/media/6917/download/2025-10-16_Umsetzungsplan%20Energieeinsparma%C3%9Fnahmen%20SPI%202025%20bis%202028_DE.pdf?inline=true&v=3",
-    "date": 46265
+    "date": "2026-08-31"
   },
   {
     "company": "SMS group GmbH",
@@ -1408,7 +1408,7 @@ window.LEADS = [
     "contactDate": "",
     "next": "Warengruppen mit kleineren Präzisions- und Sonderteilen sowie vormontierten mechanischen Einheiten identifizieren; Lieferantenregistrierung prüfen.",
     "sources": "https://www.sms-group.com/es-es/press-and-media/press-releases/press-release-detail/sms-group-continues-positive-development-and-improves-operating-result | https://www.sms-group.com/de-de/company/standorte/weltweites-netzwerk/sms-campus",
-    "date": 46265
+    "date": "2026-08-31"
   },
   {
     "company": "Venjakob Maschinenbau GmbH & Co. KG",
@@ -1425,7 +1425,7 @@ window.LEADS = [
     "contactDate": "",
     "next": "Projektbeschaffung für kundenspezifische Beschichtungs-, Trocknungs- und Förderanlagen zu Antriebselementen und Zeichnungsteilen qualifizieren.",
     "sources": "https://www.venjakob.de/unternehmen | https://www.venjakob.de/fileadmin/user_upload/Case_Studies/pdf/Automobil/HEC-VERFAHREN.pdf",
-    "date": 46265
+    "date": "2026-08-31"
   },
   {
     "company": "CLAAS Selbstfahrende Erntemaschinen GmbH",
@@ -1442,6 +1442,6 @@ window.LEADS = [
     "contactDate": "",
     "next": "Harsewinkeler Commodity- und Standortbeschaffung für Sonderteile, Antriebselemente und Kapazitätsspitzen neuer Produktfamilien qualifizieren.",
     "sources": "https://www.claas.com/de-de/presse/pressemitteilungen/2025-07-11-vorfertigungszentrum | https://www.claas.com/caas/v1/media/1328992/data/0bb16aa82047a1b3763a4db888be1465 | https://recruiting.claas.com/job/Harsewinkel-Student-%28mwd%29-CLAAS-Inside-im-Bereich-Industrialisierung-NW-33428/792886802/",
-    "date": 46265
+    "date": "2026-08-31"
   }
 ];
