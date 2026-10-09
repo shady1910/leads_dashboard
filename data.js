@@ -5,9 +5,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Neunburg vorm Wald; weitere Niederlassungen u. a. Frankfurt und Leipzig",
     "industry": "Automatisierungstechnik, Maschinenbau, Robotik",
+    "score": 86,
+    "priority": "A",
     "need": "Mittleres bis starkes technisches Signal: F.EE bietet Universal-Verfahrachsen/Linearachsen für Roboter, Fördertechnik, Drehtische/Antriebe sowie Sondermaschinenbau und eigene Einzel-/Serienfertigung an. Das spricht für Bedarf an mechanischen Antriebselementen, Sonderteilen und Baugruppen, ohne aktuelle Beschaffungsabsicht zu belegen.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.fee.de/ ; https://www.fee.de/unternehmen/zahlen-fakten ; https://www.ausbildungsoffensive-bayern.de/mitgliedsunternehmen/profile/fee-industrieautomation-gmbh-u-co-kg-92431-neunburg-vorm-wald/",
-    "date": "2026-07-31"
+    "date": "2026-07-31 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "ASS Maschinenbau GmbH",
@@ -15,9 +20,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Overath",
     "industry": "Robotik, Greifertechnik, Automatisierung, Maschinenbau",
+    "score": 78,
+    "priority": "B",
     "need": "Mittleres technisches Signal: umfangreicher mechatronischer Komponentenbau, kundenspezifische Greiflösungen und Turn-Key-Automationsanlagen deuten auf Bedarf an Sonderteilen, mechanischen Baugruppen und Antriebskomponenten hin; keine konkrete Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.ass-automation.com/de/unternehmen/ass-maschinenbau-gmbh.html",
-    "date": "2026-07-31"
+    "date": "2026-07-31 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "A+F Automation + Fördertechnik GmbH / EOL Group",
@@ -25,9 +35,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Kirchlengern",
     "industry": "Verpackungsmaschinen, Fördertechnik, End-of-Line-Automation",
+    "score": 82,
+    "priority": "A",
     "need": "Mittleres technisches Signal: individuelle Endverpackungs- und Palettieranlagen mit Pick-and-place, Robotik und Transportsystemen legen Bedarf an Antriebselementen, Förder-/Positionierkomponenten und Sonderbaugruppen nahe; aktuelle Beschaffungsabsicht nicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://eol.group/de/unternehmen/af-automationfoerdertechnik ; https://www.wlw.de/de/firma/af-automation-foerdertechnik-gmbh-344825 ; https://www.cgs-management.com/en/portfolio/eol-packaging-experts",
-    "date": "2026-07-31"
+    "date": "2026-07-31 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "DFT - Dürkopp Fördertechnik GmbH",
@@ -35,9 +50,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Bielefeld",
     "industry": "Intralogistik, Fördertechnik, Anlagenbau, Automatisierungsanlagen",
+    "score": 88,
+    "priority": "A",
     "need": "Starkes technisches Signal: offizielle DFT-/OWL-Quellen belegen automatisierte Sortier- und Fördertechnik, Hängefördertechnik und Anlagenbau für Intralogistik. Laufende Jobs/Projektplanung deuten auf Angebotslayouts und Materiallisten für Projekte hin. Keine konkrete Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.duerkopp.com/de/ ; https://www.owl-maschinenbau.de/unternehmen/dft-duerkopp-foerdertechnik-gmbh/ ; https://de.linkedin.com/company/dft-duerkopp ; https://haystackapp.io/jobs/5675456f-bde8-4928-b053-120eff8aaa65",
-    "date": "2026-07-31"
+    "date": "2026-07-31 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "MINDA Industrieanlagen GmbH",
@@ -45,9 +65,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Minden",
     "industry": "Anlagenbau, Intralogistik, Fördertechnik",
+    "score": 86,
+    "priority": "A",
     "need": "Starkes technisches Signal: offizielle Quellen belegen kundenspezifische Fördertechnik und Intralogistiksysteme; Stadt Minden bestätigt Entwicklung und Produktion am Standort. Forbo-Fallbeispiel nennt Spezialanlagenbau und interne Materialflusslösungen. Keine konkrete Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.minda.com/de/ ; https://www.minda.com/en/ ; https://www.owl-maschinenbau.de/unternehmen/minda-industrieanlagen-gmbh/ ; https://www.minden.de/wirtschaft-mobilitaet-wohnen/standort-minden/arbeiten-in-minden/minda/ ; https://www.forbo.com/movement/en-gl/about-us/winning-solutions/minda-industrieanlagen-gmbh/p4qqvm",
-    "date": "2026-07-31"
+    "date": "2026-07-31 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "GHD Georg Hartmann Maschinenbau GmbH",
@@ -55,9 +80,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Delbrück",
     "industry": "Maschinenbau, Lebensmittel- und Verpackungsmaschinen",
+    "score": 80,
+    "priority": "A",
     "need": "Mittleres bis starkes technisches Signal: offizielle Produktseite nennt komplette Maschinen/Anlagen zum Schneiden und Verpacken; Messeprofile bestätigen führende Rolle in Schneide-/Verpackungsmaschinen. Das legt Bedarf an Sonderteilen, Baugruppen und Antriebselementen nahe. Keine konkrete Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.ghd.net/de/startseite ; https://de.linkedin.com/company/ghd-georg-hartmann-maschinenbau-gmbh ; https://www.iba-tradefair.com/en/discover/all-exhibitors-and-suppliers/ghd-georg-hartmann-maschinenbau-gmbh ; https://www.interpack.com/vis/v1/en/exhprofiles/BSN93PqHQUyR4I82jEZNjQ",
-    "date": "2026-07-31"
+    "date": "2026-07-31 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "HAVER & BOECKER OHG / Machinery Division",
@@ -65,9 +95,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Oelde",
     "industry": "Verpackungstechnologie, Maschinenbau, Anlagenbau",
+    "score": 79,
+    "priority": "B",
     "need": "Mittleres bis starkes technisches Signal: offizielle Seite belegt individuelle Maschinenlösungen und Verpackungstechnologie; Machinery-Division-Profile belegen Entwicklung und Produktion von Systemen/Anlagen. Keine konkrete Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.haverboecker.com/de/ ; https://be.linkedin.com/company/haver-boecker-machinery-division ; https://www.at-minerals.com/en/artikel/at_HAVER_BOECKER_Machinery_Division-3323544.html",
-    "date": "2026-07-31"
+    "date": "2026-07-31 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Lödige Industries GmbH",
@@ -75,9 +110,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Warburg/Scherfede; Paderborn",
     "industry": "Fördertechnik, Intralogistik, Logistiksysteme, Materialflusslösungen",
+    "score": 82,
+    "priority": "A",
     "need": "Starkes technisches Signal: offizielle Seite belegt kundenspezifische Materialflusslösungen und Heavy-Goods-Movement; deutsche Standortseite nennt Fördertechnik und Produktionslogistik. Keine konkrete Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.lodige.com/en-global/ ; https://www.lodige.com/de-de/unternehmen/wo-sie-uns-finden/deutschland/ ; https://de.linkedin.com/company/lodige-industries",
-    "date": "2026-07-31"
+    "date": "2026-07-31 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Vanderlande Industries B.V.",
@@ -85,9 +125,14 @@ window.LEADS = [
     "region": "Niederlande",
     "location": "Veghel",
     "industry": "Intralogistik, Fördertechnik, Logistikprozess-Automation, Anlagenbau",
+    "score": 92,
+    "priority": "A",
     "need": "Starkes technisches Signal: offizielle Website nennt integrierte Logistikautomationssysteme; Karrierequelle nennt 3D-Conveyor-Modelle, mechanische Layouts, Schnittstellen zu Equipment und Procurement; FY2025-Bericht belegt Design/Implementation von logistischen Automationslösungen. Keine konkrete Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.vanderlande.com/ ; https://careers.vanderlande.com/all-jobs/mechanical-project-engineer-i-jr36845/ ; https://careers.vanderlande.com/job-areas/engineering/ ; https://www.vanderlande.com/wp-content/uploads/2025/11/Vanderlande-Industries-B.V.-annual-report-FY25-incl.-auditors-report.pdf",
-    "date": "2026-07-31"
+    "date": "2026-07-31 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "AWL-Techniek B.V. / AWL Automation",
@@ -95,9 +140,14 @@ window.LEADS = [
     "region": "Niederlande",
     "location": "Harderwijk, Gelderland",
     "industry": "Robotik, industrielle Automation, Sondermaschinenbau, Intralogistik",
+    "score": 88,
+    "priority": "A",
     "need": "Starkes technisches Signal: offizielle Website belegt robotic automation für Produktions- und Intralogistikprozesse, Pick & Place, Parcel Induction, Tote Handling und End-of-arm tooling; A3-Profil belegt Design und Bau smarter modularer Maschinen. Aktuelle Karrierequelle nennt Mechanical Engineer in Harderwijk. Keine konkrete Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://awlautomation.com/ ; https://www.automate.org/companies/awl-techniek-b-v ; https://careers.awl.nl/professional/",
-    "date": "2026-07-31"
+    "date": "2026-07-31 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "BluePrint Automation B.V.",
@@ -105,9 +155,14 @@ window.LEADS = [
     "region": "Niederlande",
     "location": "Woerden, Utrecht",
     "industry": "Verpackungstechnik, Verpackungsautomation, Robotik, Maschinenbau",
+    "score": 90,
+    "priority": "A",
     "need": "Starkes technisches Signal: offizielle Website belegt Entwicklung und Fertigung automatisierter Verpackungsmaschinen mit Pick-and-place und vision-guided robotics; Karriereportal 2026 nennt Stellen in Woerden für Industrial Automation, Electrical Design, Mechatronik, Machinebankwerker/Fabricage und Werkvoorbereiding Service; Stellenbeschreibung nennt Upgrades/Modifikationen bestehender Maschinen und Zusammenarbeit mit Mechanical-/Software-/Service-Engineering. Keine konkrete Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.blueprintautomation.com/ ; https://www.blueprintautomation.com/bpa-global/team ; https://jobs.blueprintautomation.com/ ; https://jobs.blueprintautomation.com/vacatures/electrical-engineer.html",
-    "date": "2026-07-31"
+    "date": "2026-07-31 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Krones AG",
@@ -115,9 +170,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Neutraubling",
     "industry": "Verpackungs- und Abfülltechnik, Anlagenbau",
+    "score": 84,
+    "priority": "A",
     "need": "Mittleres bis starkes Signal: offizielle Website belegt Prozess-, Füll- und Verpackungsmaschinen; Engineering-/Karrierequellen zeigen Mechanikbezug. Keine konkrete Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.krones.com/en/index.php ; https://www.krones.com/en/company/investor-relations/krones-group-annual-report-2025.php ; https://www.krones.com/en/career/engineering.php",
-    "date": "2026-08-03"
+    "date": "2026-08-03 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Gerhard Schubert GmbH Verpackungsmaschinen",
@@ -125,9 +185,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Crailsheim",
     "industry": "Verpackungsmaschinen, Robotik, Automatisierung",
+    "score": 88,
+    "priority": "A",
     "need": "Starkes Signal: offizielle Arbeitgeberseite belegt Größe und Robotik-/Verpackungsfokus; RoboJob-Fallstudie belegt eigene Komponentenfertigung und regionales Lieferantennetzwerk. Keine aktuelle Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.schubert.group/en/careers/schubert-as-an-employer/ ; https://robojob.eu/en/2000-installations/customer-testimonials/gerhard-schubert-gmbh/",
-    "date": "2026-08-03"
+    "date": "2026-08-03 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "MULTIVAC Group",
@@ -135,9 +200,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Wolfertschwenden",
     "industry": "Verpackungsmaschinen, Lebensmitteltechnik, Linienbau",
+    "score": 82,
+    "priority": "A",
     "need": "Mittleres Signal: offizielle Seite belegt Maschinen und Linien; Stellenquelle für Mechanical Product Design im Tray-/Pouch-Packaging zeigt laufenden mechanischen Entwicklungsbedarf. Keine Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://multivac.com/int/en/company/multivac-group ; https://multivac.com/bg/en/career/job-vacancies/vacancies.mechanical-product-designer-tray-pouch-packaging-mubg",
-    "date": "2026-08-03"
+    "date": "2026-08-03 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Grenzebach Group",
@@ -145,9 +215,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Asbach-Bäumenheim / Hamlar",
     "industry": "Industrieautomation, Anlagenbau, Intralogistik",
+    "score": 83,
+    "priority": "A",
     "need": "Mittleres Signal: offizielle Website belegt industrielle Automation und Intralogistik; Engineering-Seite beschreibt Produktdesign, Konstruktion und Entwicklung über mehrere Business Units. Keine Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.grenzebach.com/en/ ; https://www.grenzebach.com/en/career/career-level-experienced-professionals/direct-entry/functional-area-of-product-design-/-engineering/",
-    "date": "2026-08-03"
+    "date": "2026-08-03 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Kardex Mlog / Kardex",
@@ -155,9 +230,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Neuenstadt am Kocher",
     "industry": "Intralogistik, automatische Lager- und Materialflusssysteme",
+    "score": 83,
+    "priority": "A",
     "need": "Mittleres bis starkes Signal: offizielle Quellen nennen automatisierte Produkte, Material Handling und deutsche Produktion; Karriereseite beschreibt Stacker Cranes, Shuttle Vehicles und Conveyor Systems. Keine Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.kardex.com/company_people/careers/careers-at-kardex ; https://www.kardex.com/en-us/industry-applications/warehouse/mechanical-engineering",
-    "date": "2026-08-03"
+    "date": "2026-08-03 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "OPTIMA packaging group GmbH",
@@ -165,9 +245,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Schwäbisch Hall",
     "industry": "Verpackungs- und Abfüllanlagen",
+    "score": 82,
+    "priority": "A",
     "need": "Mittleres Signal: offizielles Karriereportal zeigt zahlreiche technische Rollen; Profile nennen Arbeitsvorbereitung, Entwicklung von Werkzeugsystemen, Steuerungstechnik und Automation. Keine Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.optima-packaging.com/de ; https://www.optima-packaging.com/de/karriere ; https://www.optima-packaging.com/de/karriere/aktuelle-stellenangebote",
-    "date": "2026-08-03"
+    "date": "2026-08-03 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "SSI SCHÄFER Group",
@@ -175,9 +260,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Neunkirchen/Siegerland; Graz u. a.",
     "industry": "Intralogistik, Material Handling, Lagerautomatisierung",
+    "score": 87,
+    "priority": "A",
     "need": "Mittleres bis starkes technisches Signal: offizielle Website belegt modulare Intralogistiksysteme; technisches Unternehmensprofil zu SSI Schäfer PEEM beschreibt Entwicklung und Fertigung dynamischer Förderanlagen für Behälter und Kartons. Keine konkrete Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.ssi-schaefer.com/ ; https://www.warehouse-logistics.com/download/Flyer/GB_Flyer_Firma_Salomon_002.pdf ; https://www.linkedin.com/company/ssischaefer",
-    "date": "2026-08-03"
+    "date": "2026-08-03 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "BEUMER Group GmbH & Co. KG",
@@ -185,9 +275,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Beckum",
     "industry": "Fördertechnik, Intralogistik, Verpackung, Sortation",
+    "score": 86,
+    "priority": "A",
     "need": "Starkes technisches Signal: offizielle Website belegt Förder-, Palettier-, Verpackungs- und Sortierlösungen sowie Lifecycle-Service. Dies spricht für mechanische Komponenten- und Ersatzteilbedarfe, ohne konkrete Beschaffungsabsicht zu belegen.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.beumergroup.com/ ; https://www.beumergroup.com/career/",
-    "date": "2026-08-03"
+    "date": "2026-08-03 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "HAHN Automation Group",
@@ -195,9 +290,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Rheinböllen",
     "industry": "Sondermaschinenbau, Factory Automation, Robotik",
+    "score": 78,
+    "priority": "B",
     "need": "Mittleres technisches Signal: offizielle Website belegt kundenspezifische Konstruktion und Integration physischer Automations-/Robotiksysteme; Karriereportal zeigte aktive technische Rekrutierung. Keine konkrete Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.hahnautomation.group/ ; https://careers.hahnautomation.group/ ; https://careers.hahnautomation.group/jobboard/",
-    "date": "2026-08-03"
+    "date": "2026-08-03 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Swisslog AG",
@@ -205,9 +305,14 @@ window.LEADS = [
     "region": "Schweiz",
     "location": "Buchs AG; Dortmund u. a.",
     "industry": "Intralogistik, Warehouse Automation",
+    "score": 76,
+    "priority": "B",
     "need": "Mittleres bis starkes technisches Signal: eine direkt geprüfte Mechanical-Engineer-Stelle verlangte CAD sowie mechanische Installation für Automated Material Handling; weitere Projektquelle nannte Förderer, Krane und Monorail. Keine konkrete Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.swisslog.com/ ; https://www.swisslog.com/en-us/careers/openings/mechanical-engineer-4142 ; https://jobs.smartrecruiters.com/SwisslogUKLtd/743999703113380-maintenance-manager-automated-warehouse",
-    "date": "2026-08-03"
+    "date": "2026-08-03 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Mosca GmbH",
@@ -215,9 +320,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Waldbrunn",
     "industry": "Verpackungstechnik, End-of-Line-Automation",
+    "score": 73,
+    "priority": "B",
     "need": "Mittleres technisches Signal: offizielle Website belegt Umreifungsmaschinen und komplexe Systeme; ergänzende Konzernquelle zeigte Electro-Mechanical- und Engineering-Rollen für End-of-Line-Lösungen. Keine konkrete Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.mosca.com/ ; https://www.mosca.com/en/career ; https://www.eammosca.com/ ; https://www.eammosca.com/career",
-    "date": "2026-08-03"
+    "date": "2026-08-03 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Cama Group",
@@ -225,9 +335,14 @@ window.LEADS = [
     "region": "Italien",
     "location": "Molteno (Lecco)",
     "industry": "Verpackungsmaschinen, Robotik, End-of-Line-Automation",
+    "score": 90,
+    "priority": "A",
     "need": "Starkes aktuelles technisches Signal: Interpack-2026-Portfolio mit drei real vorgeführten hochrobotisierten Maschinen, modularen Monobloc-Systemen, Servo- und eigener Robotiktechnologie.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://camagroup.com/ ; https://camagroup.com/cama-group-at-interpack-2026/ ; https://camagroup.com/packaging-lines/",
-    "date": "2026-08-04"
+    "date": "2026-08-04 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Marchesini Group S.p.A.",
@@ -235,9 +350,14 @@ window.LEADS = [
     "region": "Italien",
     "location": "Pianoro / Bologna",
     "industry": "Pharma- und Kosmetik-Verpackungsmaschinen",
+    "score": 91,
+    "priority": "A",
     "need": "Starkes Signal: aktuelle Maschinen-/Linienangebote, eigene Produktion und Montage; offizielle Stellenbeschreibung 2026 nennt mechanische Montage, technische Zeichnungen sowie FAT/SAT automatischer Verpackungsmaschinen.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.marchesini.com/en/corporate/the-group ; https://www.marchesini.com/en/corporate/work-with-us/mechanical-fitter ; https://www.marchesini.com/sites/default/files/2025-12/Sustainability%20Report%202024.pdf",
-    "date": "2026-08-04"
+    "date": "2026-08-04 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "IMA Group",
@@ -245,9 +365,14 @@ window.LEADS = [
     "region": "Italien",
     "location": "Ozzano dell'Emilia / Bologna",
     "industry": "Verpackungsmaschinen, Pharma-, Food- und Industrieautomation",
+    "score": 87,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: offizieller Investorbereich 2026 bestätigt Entwicklung und Produktion automatischer Maschinen sowie 56 Manufacturing Sites; 2025-Nachhaltigkeitsbericht ist veröffentlicht.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://imagroup.com/corporate/investors/ ; https://imagroup.com/",
-    "date": "2026-08-04"
+    "date": "2026-08-04 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Cimcorp Group",
@@ -255,9 +380,14 @@ window.LEADS = [
     "region": "Finnland",
     "location": "Ulvila",
     "industry": "Intralogistik, Robotik, Materialflussautomation",
+    "score": 92,
+    "priority": "A",
     "need": "Starkes Signal: Nachhaltigkeitsbericht 2025 belegt 516 Mitarbeitende sowie Design, Fertigung, Installation und Support von Automation einschließlich Upgrades und Ersatzteilen.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://cimcorp.com/ ; https://cimcorp.com/app/uploads/2026/04/Cimcorp-Group-Sustainability-report.pdf ; https://cimcorp.com/career-opportunities/open-application/",
-    "date": "2026-08-04"
+    "date": "2026-08-04 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Coesia S.p.A.",
@@ -265,9 +395,14 @@ window.LEADS = [
     "region": "Italien",
     "location": "Bologna",
     "industry": "Verpackungsmaschinen, Industrieautomation, Intralogistik",
+    "score": 78,
+    "priority": "B",
     "need": "Starkes Signal: offizielle 2025/2026-Seiten zeigen neue Verpackungsmaschinen, robotische Food-Handhabung, AI-Palettierung und ein breites Produktionsnetz.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.coesia.com/en/group/coesia ; https://www.coesia.com/en/exhibitions/coesia-at-pack-expo-las-vegas-2025-dive-into-the-automation-evolution ; https://www.coesia.com/en",
-    "date": "2026-08-04"
+    "date": "2026-08-04 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Sidel",
@@ -275,9 +410,14 @@ window.LEADS = [
     "region": "Frankreich",
     "location": "Octeville-sur-Mer; Parma u. a.",
     "industry": "Abfüll- und Verpackungslinien, Robotik, End-of-Line",
+    "score": 86,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: Interpack 2026 mit neuer RoboSELEX-Roboterkollation und RoboAccess-Palettierung; 2025-Zertifikat belegt Design und Fertigung von Maschinen und robotischen Transportlinien.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.sidel.com/en/about/media/press-releases/sidel-at-interpack-2026/ ; https://www.sidel.com/media/r3qb4wsw/0029395-ems-engus-ukas_14001.pdf ; https://www.sidel.com/",
-    "date": "2026-08-04"
+    "date": "2026-08-04 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "SACMI Group / Packaging & Chocolate",
@@ -285,9 +425,14 @@ window.LEADS = [
     "region": "Italien",
     "location": "Imola; Alba; Bologna; Mailand",
     "industry": "Verpackungsmaschinen, Lebensmitteltechnik, Industrieanlagen",
+    "score": 89,
+    "priority": "A",
     "need": "Starkes Signal: 2025 vorgestellte Verpackungsmaschinen mit bis zu 40 unabhängigen Antrieben, modularer Serienarchitektur sowie Pick-and-place-Robotik; mehrere europäische Produktionsstätten belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://sacmi.com/de-de/packaging/news/21733/sacmi-packaging-chocolate-at-fachpack-2025 ; https://sacmi.com/en-US/ipack-ima-2025 ; https://sacmi.com/en-US/las-vegas-2025",
-    "date": "2026-08-04"
+    "date": "2026-08-04 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "pester pac automation GmbH",
@@ -295,9 +440,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Wolfertschwenden",
     "industry": "Pharma- und Consumer-Verpackung, End-of-Line-Automation",
+    "score": 88,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: Interpack 2026 mit neuer Maschinenarchitektur; offizielle Historie nennt Ausbau und Modernisierung der eigenen Komponentenfertigung, ISO-Zertifikat Entwicklung, Produktion und Montage von Verpackungsmaschinen.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.pester.com/ ; https://www.pester.com/en/company/pester-pac-automation/profile/ ; https://www.pester.com/med/pester-iso9001-en.pdf",
-    "date": "2026-08-04"
+    "date": "2026-08-04 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Harro Höfliger Verpackungsmaschinen GmbH",
@@ -305,9 +455,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Allmersbach im Tal; Backnang; Aspach; Satteldorf",
     "industry": "Pharma-/Medizintechnik-Produktions- und Verpackungsanlagen",
+    "score": 93,
+    "priority": "A",
     "need": "Starkes Signal: 2025/2026 belegter Ausbau des Verpackungsportfolios; Satteldorf begleitet Großprojekte von Konstruktion und Vormontage bis Linienintegration; strategische Partner werden ausdrücklich genannt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://hoefliger.com/en/about-us ; https://hoefliger.com/en/about-us/news/20-years-of-the-satteldorf-site ; https://hoefliger.com/en/products/consumer/packaging",
-    "date": "2026-08-04"
+    "date": "2026-08-04 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Romaco Group",
@@ -315,9 +470,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Karlsruhe, Köln, Steinen; Bologna; Barcelona",
     "industry": "Pharma-Verarbeitungs- und Verpackungsmaschinen",
+    "score": 88,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: 2025 Lokalisierung der Formatteilproduktion und Ausbau mehrerer Produktions-/Experience-Standorte; neue Blistermaschinen mit Servo-Technik und Schnittstellen zu Kartonierer/Casepacker.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.romaco.com/career/who-we-are ; https://www.romaco.com/press-news/details/romaco-at-cphi-pmec-india-2025 ; https://www.romaco.com/press-news/details/romaco-at-pack-expo-in-las-vegas-usa",
-    "date": "2026-08-04"
+    "date": "2026-08-04 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Hugo Beck Maschinenbau GmbH & Co. KG",
@@ -325,9 +485,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Dettingen/Erms",
     "industry": "Verpackungsmaschinen, Automatisierung, Maschinenbau",
+    "score": 90,
+    "priority": "A",
     "need": "Starkes aktuelles technisches Signal: neue paper-S-Bündelpackmaschine zur interpack 2026; offizielle Produktseite belegt kundenspezifische In-house-Projektierung und Fertigung sowie moderne Antriebs-/Steuerungstechnik. Keine Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.hugobeck.com/en/ ; https://www.hugobeck.com/en/solutions-portfolio/ ; https://www.hugobeck.com/en/company/newsroom/press-releases/hugo-beck-to-launch-new-sleeve-wrapper-for-sustainable-transport-packaging-at-interpack",
-    "date": "2026-08-05"
+    "date": "2026-08-05 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "SN Maschinenbau GmbH",
@@ -335,9 +500,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Wipperfürth",
     "industry": "Verpackungsmaschinen, Lebensmittel-/Pharma-/Kosmetiktechnik",
+    "score": 91,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: 2026 neue HSF 100 und FLH 300; offizielle Seite belegt Entwicklung, Konstruktion und Fertigung am Standort sowie hohe Fertigungstiefe. Konkrete Beschaffungsabsicht nicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.sn-packaging.com/en/company/sn/about-us ; https://www.sn-packaging.com/ ; https://www.packaging-labelling.com/pressreleases/packaging-know-how-and-film-expertise",
-    "date": "2026-08-05"
+    "date": "2026-08-05 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Uhlmann Pac-Systeme GmbH & Co. KG",
@@ -345,9 +515,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Laupheim",
     "industry": "Pharma-Verpackungsmaschinen, Automatisierung",
+    "score": 92,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: interpack 2026 mit neuen OEE-orientierten Lösungen und nachhaltigen Tray-Konzepten; offizieller Service nennt Ersatzteile, Formatteile, Upgrades und Modernisierung. Keine konkrete externe Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://interpack.event.uhlmann.de/en/ ; https://sustainability.uhlmann.de/uhlmann-pac/es/career/apprenticeships-and-dual-study-courses ; https://www.uhlmann.de/en/products-and-solutions/customer-service-at-a-glance",
-    "date": "2026-08-05"
+    "date": "2026-08-05 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Bausch+Ströbel SE + Co. KG",
@@ -355,9 +530,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Ilshofen",
     "industry": "Pharma-Maschinenbau, Abfüll- und Verpackungsanlagen",
+    "score": 89,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: interpack 2026 zeigt neue Anlagen-/Komponentenkonzepte; 2026 ausgezeichnete additive Fertigung für funktionsoptimierte pharmazeutische Komponenten und interne Weiterentwicklung seit 2020. Keine externe Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.bausch-stroebel.com/en/company/company/history/ ; https://www.bausch-stroebel.com/en/company/current/news-complete/additive-manufacturing ; https://www.bausch-stroebel.com/en/company/current/press",
-    "date": "2026-08-05"
+    "date": "2026-08-05 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "BHS Corrugated Maschinen- und Anlagenbau GmbH",
@@ -365,9 +545,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Weiherhammer",
     "industry": "Wellpappenmaschinen, Automatisierung, Intralogistik, Anlagenbau",
+    "score": 91,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: 2026 Einführung des neuen Slitter Scorer SR-C und NextGraphX; 2025 Einführung des intelligenten iBelt-Ersatzteilsystems. Das belegt laufende Komponenten- und Maschineninnovation, jedoch keine externe Beschaffungsabsicht.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.bhs-world.com/en/news/product-news ; https://www.bhs-world.com/karriere/bhs-corrugated-360-grad/zahlen-storys ; https://www.bhs-world.com/en/corruverse",
-    "date": "2026-08-05"
+    "date": "2026-08-05 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "FOCKE & CO. (GmbH & Co. KG) / FOCKE Gruppe",
@@ -375,9 +560,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Verden (Aller); Barßel; Berlin",
     "industry": "Verpackungsmaschinen, Automatisierung, End-of-Line",
+    "score": 89,
+    "priority": "A",
     "need": "Starkes technisches Signal: aktuelle Smart Line und Hi5/Agility-Plattform mit modularen Konzepten und ausdrücklich fortschrittlicher Antriebs- bzw. Servo-Technik; Messe- und Produktaktivität 2026. Keine konkrete externe Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.focke.com/ ; https://www.focke.com/cigarette-packaging-otp/ ; https://www.focke.com/cigarette-packaging-otp-v2/smart-line/ ; https://www.focke.com/hygiene-tissue-food-consumer/",
-    "date": "2026-08-05"
+    "date": "2026-08-05 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "GEA Group Aktiengesellschaft / Food Processing & Packaging",
@@ -385,9 +575,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Düsseldorf (Konzernsitz); relevante europäische Food-Processing- und Packaging-Standorte",
     "industry": "Lebensmittel- und Pharma-Maschinenbau, Verpackungstechnik, Prozessanlagen",
+    "score": 90,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: Markteinführung des PowerPak 5000 zur interpack 2026, integriert mit OptiSlicer, OptiLoader und PowerLabel zu einer synchronisierten Linie bis 600 kg/h; mehrere weitere Maschinenneuheiten 2026. Keine externe Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.gea.com/ja/news/trade-press/2026/powerpak-5000-thermoformer-launch/ ; https://www.gea.com/pt/events/interpack-2026/ ; https://www.gea.com/en/products/filling-packaging/",
-    "date": "2026-08-05"
+    "date": "2026-08-05 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "groninger group / groninger & co. gmbh",
@@ -395,9 +590,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Crailsheim; Schnelldorf",
     "industry": "Pharma-, Kosmetik- und Consumer-Healthcare-Maschinenbau",
+    "score": 93,
+    "priority": "A",
     "need": "Sehr starkes aktuelles Signal: neue Montagehalle und Bürokomplex; beim Richtfest 2026 wurde der Ausbau mit zu klein gewordenen Bestandsflächen begründet. Zusätzlich nennt der Service Neubau von Formatteilen sowie Austausch spezifischer Komponenten. Keine externe Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.groninger-group.com/en/company/about-groninger/ ; https://www.groninger-group.com/en/news-downloads/press-releases/ ; https://www.groninger-group.com/en/services/service-portfolio/",
-    "date": "2026-08-05"
+    "date": "2026-08-05 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "ROVEMA GmbH",
@@ -405,9 +605,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Fernwald",
     "industry": "Verpackungsmaschinen, Automatisierung, End-of-Line",
+    "score": 90,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: 2026 mehrere Markteinführungen, darunter BV Core 260 sowie ELD Flex und ETI-WA 443 mit schnellen Formatwechseln und hoher Kartonierleistung. Keine externe Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.rovema.com/en/company/newsroom/detail/ ; https://jobs.rovema.com/de?id=de8a00",
-    "date": "2026-08-10"
+    "date": "2026-08-10 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "SOMIC Verpackungsmaschinen GmbH & Co. KG",
@@ -415,9 +620,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Amerang; Teilefertigung Haag i. OB",
     "industry": "End-of-Line-Verpackungsmaschinen, Automatisierung",
+    "score": 91,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: SOMIC stellte 2026 drei neue Maschinengenerationen vom Einstiegs- bis zum Hochleistungssegment vor; die SOMIC 202 verarbeitet Kartons mit kettengeführtem Zuschnitttransport. Keine externe Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://apac.somic-packaging.com/company/news/somic-at-interpack-2026/ ; https://www.somic-packaging.com/en/company/about-somic/",
-    "date": "2026-08-10"
+    "date": "2026-08-10 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Körber Pharma Packaging AG / Körber Business Area Pharma",
@@ -425,9 +635,14 @@ window.LEADS = [
     "region": "Schweiz",
     "location": "Grabs; relevante Maschinenstandorte Markt Schwaben und Pécs",
     "industry": "Pharma-Verpackungsmaschinen, Inspektion, Handling und Automatisierung",
+    "score": 94,
+    "priority": "A",
     "need": "Sehr starkes aktuelles Signal: zwei Maschinenstarts zur interpack 2026; zusätzlich bündelt der Campus Pécs Konstruktion, Zerspanung, Blechbearbeitung, Montage und Supply Chain bei hoher Nachfrage und steigenden Aufträgen. Keine konkrete externe Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://service.koerber-pharma.com/interpack-2026 ; https://www.koerber-pharma.com/en/about-us/locations ; https://www.koerber-pharma.com/en/blog/a-state-of-the-art-production-facility-in-the-heart-of-europe",
-    "date": "2026-08-10"
+    "date": "2026-08-10 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Herbold Meckesheim GmbH / Coperion Recycling",
@@ -435,9 +650,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Meckesheim",
     "industry": "Recyclingmaschinen, Anlagenbau, Förder- und Verfahrenstechnik",
+    "score": 92,
+    "priority": "A",
     "need": "Sehr starkes aktuelles Signal: konkreter Folgeauftrag 2026 für eine zweite PET-Waschlinie, aktuell in Auslieferung und Inbetriebnahme; enthält optimierte Prozessmodule, Debaler und kombinierte Nass-/Trocken-Waschtrommel. Keine Aussage über externe Komponentenbeschaffung.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://coperion.com/media/hqddig3q/herbold_doga_washingline_en.pdf ; https://www.coperion.com/de/unternehmen/ueber-coperion",
-    "date": "2026-08-10"
+    "date": "2026-08-10 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "KHS GmbH / KHS Group",
@@ -445,9 +665,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Dortmund; Bad Kreuznach; Kleve; Worms; Hamburg (rund 450 Mitarbeitende)",
     "industry": "Abfüll- und Verpackungsmaschinen, Anlagenbau, Automatisierung",
+    "score": 92,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: 2026 neue BottleClip-Anwendung und breites Retrofit-Programm; am Standort Hamburg neue Generation der InnoPET-Blomax-Streckblasmaschinen sowie aktuelle FreshSafe-Block-Technik. Keine externe Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.khs.com/en/company/news/press-releases/detail/from-the-packaging-to-the-line ; https://www.khs.com/en/company/news/press-releases/detail/future-proof-with-the-khs-conversion-catalog ; https://www.khs.com/en/company/about-us ; https://www.khs.com/unternehmen/aktuelles/pressemitteilungen/detail/jubilaeum-bei-khs-hamburg-50-jahre-pionierarbeit-und-ein-starkes-team-fuer-die-zukunft ; https://www.khs.com/fileadmin/user_upload/InnoPET_FreshSafe_Block_mit_Plasmax_20Q.pdf",
-    "date": "2026-08-10"
+    "date": "2026-08-10 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "AMF-Bruns GmbH & Co. KG",
@@ -455,9 +680,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Apen",
     "industry": "Fördertechnik, Maschinen- und Anlagenbau",
+    "score": 91,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: AMF-Bruns meldete 2025 den größten Einzelauftrag der Unternehmensgeschichte im Förderanlagenbereich mit knapp 15 Mio. Euro und leitete die Anschaffung einer neuen Laseranlage ein. Das deutet auf hohe Projekt- und Fertigungsaktivität, belegt aber keine externe Beschaffungsabsicht.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://amf-foerderanlagen.de/geschichte/ ; https://amf-foerderanlagen.de/wp-content/uploads/2025/08/25-0020_AMF_TeAMForum_01-2025.pdf ; https://amf-foerderanlagen.de/en/continuous-conveyors/",
-    "date": "2026-08-10"
+    "date": "2026-08-10 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "SCHULZ Systemtechnik GmbH",
@@ -465,9 +695,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Visbek; Bremen",
     "industry": "Automatisierung, Robotik, Sondermaschinenbau",
+    "score": 88,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: 2026 veröffentlichte SCHULZ eine modulare hochautomatisierte Sondermaschine mit 6-Achs-Roboter, Zuführung, Bearbeitung, Prüfung und Tray-Verpackung. Zusätzlich wurde ein Großprojekt mit 34 Robotern und Schubplattformkreislauf umgesetzt. Keine externe Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://schulz.st/unternehmen/ ; https://schulz.st/automatisierungsloesung-fuer-outsert-technologie/ ; https://schulz.st/nur-roboter-sind-schneller/",
-    "date": "2026-08-10"
+    "date": "2026-08-10 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "OAS AG",
@@ -475,9 +710,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Bremen",
     "industry": "Anlagenbau, Förder-, Dosier- und Automatisierungstechnik",
+    "score": 83,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: OAS meldete 2025 ein konkretes Projekt für ein Tanklager samt Förderanlage, Engineering, Automatisierung und Montage. Eine Leistungsübersicht von 2025 nennt Fertigung und kundenspezifisch angepasste modulare Einheiten. Keine externe Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.oas.de/fileadmin/user_upload/OAS_AG/Downloads/OAS_Bewerberbroschuere_DE.pdf ; https://www.oas.de/anlagenbau ; https://www.oas.de/neuigkeit/tanklager-und-foerderanlage-fuer-global-taetigen-baustoffproduzenten ; https://www.oas.de/fileadmin/user_upload/OAS_AG/Downloads/OAS_PRO16_Kompetenz_im_Anlagenbau-DE_web.pdf",
-    "date": "2026-08-10"
+    "date": "2026-08-10 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "STILL GmbH",
@@ -485,9 +725,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Hamburg",
     "industry": "Intralogistik, Flurförderzeuge, mobile Robotik",
+    "score": 81,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: STILL industrialisierte 2025 mehrere automatisierte Serienfahrzeuge auf Basis modularer standardisierter Komponenten. 2026 folgte eine automatisierte Tiefkühllösung mit Hochhubwagen und Paletten-Shuttle-System mit 3.700 Stellplätzen. Keine externe Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.still.de/unternehmen.html ; https://data.still.de/assets/products/News/2026/Global/Pre-Report_LogiMAT_2026/DE_STILL_Pressemitteilung_Vorbericht_LogiMAT_2026.pdf?download=1 ; https://www.still.de/unternehmen/news-presse/news/detail/skalierbar-verfuegbar-industrialisiert-still-praesentiert-smartes-automatisierungsportfolio-fuer-jedes-einsatzszenario.html ; https://www.still.de/unternehmen/news-presse/news/detail/eine-vollautomatisierte-tiefkuehllogistik-fuer-das-block-logistik-fertigwarenlager.html",
-    "date": "2026-08-10"
+    "date": "2026-08-10 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Güdel Group AG",
@@ -495,9 +740,14 @@ window.LEADS = [
     "region": "Schweiz",
     "location": "Langenthal",
     "industry": "Automatisierung, Robotik, Maschinenbau",
+    "score": 90,
+    "priority": "A",
     "need": "Starkes technisches Signal: Güdel entwickelt und fertigt in Langenthal Linear- und Antriebskomponenten sowie kundenspezifische Portalrobotik; aktuelle Karriere- und Unternehmensseiten nennen Wachstum und laufende Rekrutierung. Keine externe Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.gudel.com/company/about-guedel ; https://de.gudel.com/unternehmen/jobs-berufsbildung/jobs ; https://media.gudel.com/v/iOBqgR9k/",
-    "date": "2026-08-11"
+    "date": "2026-08-11 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Stäubli International AG / Robotics",
@@ -505,9 +755,14 @@ window.LEADS = [
     "region": "Schweiz",
     "location": "Pfäffikon SZ; Robotikproduktion u. a. Faverges, Frankreich",
     "industry": "Robotik, Mechatronik, Automatisierung",
+    "score": 89,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: Stäubli baut die nächste Robotergeneration auf und besetzt dafür Produktmanagement- und Entwicklungsrollen; das Portfolio umfasst neue Industrie- und mobile Robotik. Keine externe Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.staubli.com/global/de/news/global/2025/staeubli-robotics-executive-president-ernennung.html ; https://www.staubli.com/ch/de/robotics/produkte.html ; https://www.staubli.com/ch/fr/carriere/detail-du-poste.job-744000118151877.html",
-    "date": "2026-08-11"
+    "date": "2026-08-11 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Interroll Holding AG / Interroll Group",
@@ -515,9 +770,14 @@ window.LEADS = [
     "region": "Schweiz",
     "location": "Sant'Antonino",
     "industry": "Fördertechnik, Intralogistik, Sortiertechnik",
+    "score": 94,
+    "priority": "A",
     "need": "Sehr starkes aktuelles Signal: 2025 stieg der Auftragseingang auf 545,3 Mio. CHF; 2026 erweitert Interroll die Sorting Solutions Platform und führt die prämierte MCP PLAY Plattform weiter. Keine externe Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://investors.interroll.com/reporting/annual-report-2025/financial-report ; https://investors.interroll.com/reporting/annual-report-2025/quick-report ; https://www.interroll.com/fileadmin/user_upload/LogiMAT-Press_release_FINAL_25.03.26_ENG.pdf",
-    "date": "2026-08-11"
+    "date": "2026-08-11 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Ferag AG / Ferag Solutions",
@@ -525,9 +785,14 @@ window.LEADS = [
     "region": "Schweiz",
     "location": "Hinwil",
     "industry": "Intralogistik, Förder- und Sortiertechnik, Automation",
+    "score": 88,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: Seit Januar 2025 ist Ferag Solutions eigenständig auf Intralogistik fokussiert und treibt mit eigener Technologies-Division Produktentwicklung und internationale Projekte voran. Keine externe Beschaffungsabsicht belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://ferag.com/en/company/about-us/ ; https://www.ferag.com/labor-trends-and-workforce-shortage-in-intralogistics-automation-as-the-solution/",
-    "date": "2026-08-11"
+    "date": "2026-08-11 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "GEBHARDT Intralogistics Group",
@@ -535,9 +800,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Sinsheim",
     "industry": "Intralogistik, Fördertechnik, Lagerautomation",
+    "score": 93,
+    "priority": "A",
     "need": "Sehr starkes aktuelles Signal: 2026 erweitert GEBHARDT sein Angebot durch die Übernahme der AKDV GmbH, eröffnet einen Standort in Paris und zeigt neue Smart-Intralogistics-Lösungen; zudem wurde ein neues Ersatzteillager bei DIEFFENBACHER automatisiert.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://gebhardt-group.com/en/ ; https://marketing.gebhardt-group.com/en/gebhardt-sorting-solutions-the-guide",
-    "date": "2026-08-11"
+    "date": "2026-08-11 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Jungheinrich AG",
@@ -545,9 +815,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Hamburg; Moosburg und weitere Werke",
     "industry": "Intralogistik, Lagerautomation, mobile Robotik",
+    "score": 92,
+    "priority": "A",
     "need": "Sehr starkes aktuelles Signal: 2025 stiegen Auftragseingang und Umsatz; das Automationsportfolio wurde erweitert. In Moosburg entsteht bis Ende 2026 ein Experience Center mit 1.700 m² Materialflussarena und Platz für bis zu 400 Beschäftigte im Segment Automation & Warehouse Equipment.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.jungheinrich.com/en/investor-relations/annual-report-2025 ; https://www.jungheinrich.com/en/newsroom/jungheinrich-blog/this-is-what-the-jec-in-moosburg-will-look-like-2370554 ; https://www.jungheinrich.com/en/about-us/we-are-shaping-the-warehouse-of-the-future-1616980",
-    "date": "2026-08-11"
+    "date": "2026-08-11 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "STIWA Group / STIWA Automation",
@@ -555,9 +830,14 @@ window.LEADS = [
     "region": "Österreich",
     "location": "Attnang-Puchheim",
     "industry": "Hochleistungsautomation, Sondermaschinenbau, Fertigung",
+    "score": 95,
+    "priority": "A",
     "need": "Sehr starkes aktuelles Signal: STIWA präsentiert 2026 integrierte Batterieproduktionslösungen und plant ab 2027 Serienkapazität von über 60 Mio. Komponenten jährlich; mehr als 60 Maschinen pro Jahr und hohe Fertigungstiefe sind offiziell ausgewiesen.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.stiwa.com/en/automation/industries ; https://www.stiwa.com/en/automation/battery-show-2026 ; https://www.stiwa.com/en/company/business-units ; https://www.stiwa.com/fileadmin/user_upload/aws_jobs_pdf/47262_en.pdf",
-    "date": "2026-08-11"
+    "date": "2026-08-11 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "IMA Schelling Group GmbH / IMA Schelling Austria GmbH",
@@ -565,9 +845,14 @@ window.LEADS = [
     "region": "Österreich",
     "location": "Schwarzach; Lübbecke",
     "industry": "Maschinenbau, Lagerautomation, Förder- und Handhabungstechnik",
+    "score": 91,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: Zum 10-jährigen Gruppenjubiläum 2025 meldete IMA Schelling Wachstum auf 1.960 Mitarbeitende und 395 Mio. Euro Umsatz sowie zusätzliche R&D-Ressourcen; aktuelle Lösungen verbinden Lager, Handling, Fördern und Robotik.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.imaschelling.com/en/ima-schelling-group/company/about-us ; https://www.imaschelling.com/en/ima-schelling-group/company/locations/austria ; https://www.imaschelling.com/en/ima-schelling-group/latest-news/news/items/why-1-plus-1-equals-10",
-    "date": "2026-08-11"
+    "date": "2026-08-11 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "KASTO Maschinenbau GmbH & Co. KG",
@@ -575,9 +860,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Achern; Schalkau",
     "industry": "Maschinenbau, Lagertechnik, Materialhandling, Automation",
+    "score": 82,
+    "priority": "B",
     "need": "Starkes aktuelles Signal: 2026 führt KASTO ProControl, KASTOcenter compact und eine neue KASTOssb-Generation ein; mehrere neue Referenzen zeigen hochautomatisierte Produktionslogistik und Materialflusslösungen.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.kasto.com/en/company/news ; https://www.kasto.com/en/contact/exhibitions-and-conferences/amb ; https://www.kasto.com/en/storage/buffer-storage",
-    "date": "2026-08-11"
+    "date": "2026-08-11 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Fill Gesellschaft m.b.H.",
@@ -585,9 +875,14 @@ window.LEADS = [
     "region": "Österreich",
     "location": "Gurten",
     "industry": "Sondermaschinenbau, Automation, Produktionsanlagen",
+    "score": 90,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: Fill wurde 2026 als innovativstes Unternehmen Österreichs hervorgehoben; aktuelle Unterlagen zeigen hochautomatisierte Aerospace- und Plattenfertigungsanlagen sowie fortlaufende Projekt- und Arbeitsvorbereitungsrekrutierung.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.fill.co.at/en/company/look-for-meaning-and-you-will-find-purpose ; https://www.fill.co.at/de ; https://www.fill.co.at/Downloads/KC%20Folder/Folder%20Aerospace%20Manufacturing%20Systems.pdf ; https://www.fill.co.at/en/career/discover-your-job-at-fill/project-disponent-for-work-preparation-m-f-x",
-    "date": "2026-08-11"
+    "date": "2026-08-11 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "WITRON Logistik + Informatik GmbH",
@@ -595,9 +890,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Parkstein, Deutschland",
     "industry": "Intralogistik / Fördertechnik",
+    "score": 98,
+    "priority": "A",
     "need": "2025: Rekordauftragseingang über 2 Mrd. EUR; neue automatisierte Lebensmittel-Logistikprojekte und mechanische Komponentenentwicklung.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://witron.de/en/news/record-order-intake-in-the-companys-history | https://witron.de/en/ | Altbestand: https://www.witron.com/ ; https://careers.witron.com/",
-    "date": "2026-08-12"
+    "date": "2026-08-12 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "STADLER Anlagenbau GmbH",
@@ -605,9 +905,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Altshausen, Deutschland",
     "industry": "Anlagenbau / Sortier- und Fördertechnik",
+    "score": 91,
+    "priority": "A",
     "need": "2026: neuer Air Drum Sifter und neue hochautomatisierte Sortieranlagen; über 600 realisierte Anlagen.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://w-stadler.de/en/ | https://w-stadler.de/en/company",
-    "date": "2026-08-12"
+    "date": "2026-08-12 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Dürr Group / Dürr Systems AG",
@@ -615,9 +920,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Bietigheim-Bissingen, Deutschland",
     "industry": "Maschinen- und Anlagenbau / Automation",
+    "score": 92,
+    "priority": "A",
     "need": "2025/26: Sustainable.Automation als Kernstrategie; Q4-Auftragseingang +19,9 % und Effizienzprogramm bei BBS Automation.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.durr-group.com/en/company/overview | https://www.durr-group.com/en/media/news/news-detail/view/duerr-group-significantly-improves-profitability-114080",
-    "date": "2026-08-12"
+    "date": "2026-08-12 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Mikron Group",
@@ -625,9 +935,14 @@ window.LEADS = [
     "region": "Schweiz",
     "location": "Boudry, Schweiz",
     "industry": "Automation / Präzisionsmaschinenbau",
+    "score": 95,
+    "priority": "A",
     "need": "2025: Automation-Umsatz auf CHF 250,1 Mio. gestiegen; solider Auftragsbestand und starke Nachfrage aus Pharma/Diagnostik in Europa.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://2025.report.mikron.com/wp-content/uploads/2026/02/Mikron_Annual_Report_2025.pdf | https://2025.report.mikron.com/key-figures/spreadsheet/",
-    "date": "2026-08-12"
+    "date": "2026-08-12 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "teamtechnik Industrieausrüstung GmbH",
@@ -635,9 +950,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Freiberg am Neckar, Deutschland",
     "industry": "Montage- und Prüftechnik / Automation",
+    "score": 86,
+    "priority": "A",
     "need": "2025: organisatorische Bündelung und Fortführung kundenspezifischer automatisierter Montage- und Prüflinien; Komponentenfertigung an mehreren Standorten.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://teamtechnik.de/ueber-uns/ | https://teamtechnik.pl/en/about-us/ | https://teamtechnik.pl/en/next-starts-now-2/",
-    "date": "2026-08-12"
+    "date": "2026-08-12 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "KNOLL Maschinenbau GmbH",
@@ -645,9 +965,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Bad Saulgau, Deutschland",
     "industry": "Fördertechnik / Maschinenbau / Automation",
+    "score": 96,
+    "priority": "A",
     "need": "2025/26: neue automatisierte Späneentsorgung, Click.it-Automation, Ausbau der US-Montage und Übernahme von Mercatus.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.knoll-mb.de/en/ | https://www.knoll-mb.de/en/news/company/55-years-knoll | https://www.knoll-mb.de/en/news/press-release/stronger-presence-in-the-usa",
-    "date": "2026-08-12"
+    "date": "2026-08-12 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Bystronic AG",
@@ -655,9 +980,14 @@ window.LEADS = [
     "region": "Schweiz",
     "location": "Niederönz, Schweiz",
     "industry": "Maschinenbau / Blechbearbeitung / Automation",
+    "score": 91,
+    "priority": "A",
     "need": "2025: Smart-Factory-Konzept sowie neue Biege- und Laserautomation; Konsolidierung der Automationsproduktion.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://report.bystronic.com/2025/bystronic | https://report.bystronic.com/2025/app/uploads/Annual-Report-2025.pdf",
-    "date": "2026-08-12"
+    "date": "2026-08-12 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Komax Group",
@@ -665,9 +995,14 @@ window.LEADS = [
     "region": "Schweiz",
     "location": "Dierikon, Schweiz",
     "industry": "Automatisierter Maschinenbau / Kabelverarbeitung",
+    "score": 96,
+    "priority": "A",
     "need": "2025: CHF 70,9 Mio. F&E, mehrere neue Maschinen und Inline-Prüfsysteme; 633 Mitarbeitende in F&E/Engineering.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.komaxgroup.com/en/annualreport2025 | https://www.komaxgroup.com/en/annualreport2025/innovation",
-    "date": "2026-08-12"
+    "date": "2026-08-12 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Bühler Group",
@@ -675,9 +1010,14 @@ window.LEADS = [
     "region": "Schweiz",
     "location": "Uzwil, Schweiz",
     "industry": "Lebensmittelmaschinen / Anlagenbau / Automation",
+    "score": 95,
+    "priority": "A",
     "need": "2026: neue Finer S und ELK S Edition 26 mit geänderten Maschinenrahmen, IE5-Antrieben und neuer Automation.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://annualreport.buhlergroup.com/reports/en_25/home.html | https://www.buhlergroup.com/global/en/media/media-releases/finer-s-ed-26-and-elk-s-ed-26.html",
-    "date": "2026-08-12"
+    "date": "2026-08-12 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "psb intralogistics GmbH",
@@ -685,9 +1025,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Pirmasens, Deutschland",
     "industry": "Intralogistik / Förder- und Lagertechnik",
+    "score": 96,
+    "priority": "A",
     "need": "2025/26: erfolgreicher Marktstart des autopick, neues Materialwirtschaftszentrum und neue automatische Lagerprojekte.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.psb-gmbh.de/psb/ | https://www.psb-gmbh.de/news/ | https://www.psb-gmbh.de/news/sew-eurodrive-bruchsaal-psb-microstore/",
-    "date": "2026-08-12"
+    "date": "2026-08-12 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "KUKA Group / KUKA Robotics",
@@ -695,9 +1040,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Augsburg, Deutschland",
     "industry": "Robotik, Automatisierung, Intralogistik",
+    "score": 95,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: 2025 führte KUKA iiQKA.OS2, KR C5, KR TITAN ultra und neue Palettierroboter ein; 2026 investierte die Gruppe rekordhohe 213 Mio. EUR in F&E.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.kuka.com/en-us/company/about-kuka | https://www.kuka.com/en-de/company/press/news/2025/05/automatica-2025 | https://www.kuka.com/en-ch/company/press/news/2026/03/kuka-vision-automation-2-0-physical-ai",
-    "date": "2026-08-12"
+    "date": "2026-08-12 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Comau S.p.A.",
@@ -705,9 +1055,14 @@ window.LEADS = [
     "region": "Italien",
     "location": "Grugliasco (Turin), Italien",
     "industry": "Robotik, Automatisierung, Intralogistik",
+    "score": 98,
+    "priority": "A",
     "need": "Sehr starkes Signal: 2025 weltweiter Start der Cobots MyCo, AMR-Familie MyMR und neuer Schweißzange; 2026 Übernahmen in Intralogistik sowie Supplier Conference mit über 150 strategischen Lieferanten.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.comau.com/en/about-us/ | https://www.comau.com/de/2025/06/24/comau-stellt-auf-portfolio-intelligente-mobile-und-kollaborative-automatisierung-auf-der-automatica-2025/ | https://www.comau.com/en/2026/05/22/comau-hosts-2026-apac-supplier-conference-in-china-advancing-a-resilient-and-collaborative-supply-network/ | https://www.comau.com/en/2026/07/07/comau-has-acquired-invent-smart-intralogistics-solutions/",
-    "date": "2026-08-12"
+    "date": "2026-08-12 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Aetna Group S.p.A.",
@@ -715,9 +1070,14 @@ window.LEADS = [
     "region": "Italien",
     "location": "Villa Verucchio, Italien",
     "industry": "Verpackungsmaschinen, End-of-Line-Automation, Fördertechnik",
+    "score": 95,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: Das 2022-2025 laufende FUTURE@PACKAGING-Projekt für neue Maschinengenerationen wurde 2026 abgeschlossen; Produktionskapazität in Jiaxing wurde Ende 2024 verdoppelt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.aetnagroup.com/en | https://www.aetnagroup.com/en/events/propak-china-2025",
-    "date": "2026-08-12"
+    "date": "2026-08-12 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "PAL Robotics S.L.",
@@ -725,9 +1085,14 @@ window.LEADS = [
     "region": "Spanien",
     "location": "Barcelona, Spanien",
     "industry": "Service- und mobile Robotik, Automatisierung",
+    "score": 93,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: PAL Robotics sucht 2026 erstmals/aktuell eine Produktionsleitung für Planung und Verbesserung der Fertigung robotischer Systeme; neue TIAGo-Pro- und KANGAROO-Plattformen sind dokumentiert.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://pal-robotics.com/who-we-are/ | https://pal-robotics.com/who-we-are/careers/ | https://pal-robotics.com/wp-content/uploads/2026/05/2026-Datasheet_ENG_TIAGoPro.pdf",
-    "date": "2026-08-12"
+    "date": "2026-08-12 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Serac Group",
@@ -735,9 +1100,14 @@ window.LEADS = [
     "region": "Frankreich",
     "location": "La Ferté-Bernard, Frankreich",
     "industry": "Abfüll- und Verpackungsmaschinen",
+    "score": 97,
+    "priority": "A",
     "need": "Sehr starkes Signal: 2026 Einführung der linearen PET-Blasmaschine SBE Elite; aktuell zahlreiche Technik- und Beschaffungsstellen, darunter Approvisionneur, technischer Einkauf, Maschinenbaukonstruktion und Montage.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.serac-group.com/join-our-teams/ | https://www.serac-group.com/category/news/ | https://careers.serac-group.com/jobs",
-    "date": "2026-08-12"
+    "date": "2026-08-12 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Mecalux S.A.",
@@ -745,9 +1115,14 @@ window.LEADS = [
     "region": "Spanien",
     "location": "Barcelona, Spanien; Gliwice, Polen",
     "industry": "Intralogistik, Lagerautomation, Fördertechnik",
+    "score": 79,
+    "priority": "B",
     "need": "Starkes Signal: laufender Ausbau des Werks Palencia; neue AS/RS-Projekte, darunter PepsiCo Polen mit Inbetriebnahme 2026, sowie kontinuierliche Weiterentwicklung von Shuttle- und Förderlösungen.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.mecalux.com/company/introduction | https://www.mecalux.com/news/pepsico-new-asrs-poland | https://cadenaser.com/castillayleon/2025/06/19/mecalux-la-antigua-esmena-amplia-en-grijota-y-podria-llegar-a-los-500-trabajadores-radio-palencia/",
-    "date": "2026-08-12"
+    "date": "2026-08-12 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Windmöller & Hölscher KG (W&H)",
@@ -755,9 +1130,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Lengerich",
     "industry": "Verpackungsmaschinen / flexible Verpackungen",
+    "score": 95,
+    "priority": "A",
     "need": "2025 über 1 Mrd. EUR Umsatz; K 2025 und In-house EXPO mit neun laufenden Maschinen sowie neuer MDO-Entwicklung.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.wh.group/int/en/company/w_h_group/ | https://www.wh.group/de/unternehmen/news_events/e_magazin/windmoeller_hoelscher_zeigt_varex_ii_und_alphaflex_auf_der_k_2025/",
-    "date": "2026-08-31"
+    "date": "46265",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Trützschler Group SE",
@@ -765,9 +1145,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Mönchengladbach; Dülmen",
     "industry": "Textilmaschinenbau / Automation",
+    "score": 86,
+    "priority": "A",
     "need": "Aktuell zwei offene Stellen in Forschung/Entwicklung/Konstruktion; Maschinen, Anlagen und Zubehör werden an neun Standorten entwickelt und produziert.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://jobs.truetzschler.com/berufserfahrene/offer/initiativbewerbung-m-w-d/632423f9-8b2e-4285-8668-5332c116cc1e | https://www.truetzschler.com/en/locations/",
-    "date": "2026-08-31"
+    "date": "46265",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Kampf GmbH",
@@ -775,9 +1160,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Wiehl",
     "industry": "Schneid- und Wickelmaschinen / Converting",
+    "score": 93,
+    "priority": "A",
     "need": "2025 Ausbau des Hauptsitzes um Customer Experience Center und Logistikzentrum; kontinuierliche Weiterentwicklung hochautomatisierter Schneid- und Wickelmaschinen.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.kampf.de/fileadmin/Downloads/Jagenberg_Group/3_Newsroom/2025-08-07_Kampf_Pressemitteilung_engl.pdf | https://www.kampf.de/de/newsroom/news/einzel-news/news/fundament-fuer-fortschritt/ | https://www.kampf.de/de/kontakt/",
-    "date": "2026-08-31"
+    "date": "46265",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Hymmen GmbH Maschinen- und Anlagenbau",
@@ -785,9 +1175,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Bielefeld; Rödinghausen",
     "industry": "Maschinen- und Anlagenbau / Pressen / Fördertechnik",
+    "score": 87,
+    "priority": "A",
     "need": "2025 positioniert sich Hymmen als Full-Line-Partner für bis zu 400 m lange Anlagen; Portfolio umfasst kundenspezifische Fördertechnik, Pressen und Roboterhandling.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.hymmen.com/de/karriere/ | https://preprod.hymmen.com/fileadmin/user_upload/Info_Downloads/Prospekte/Blaetterkataloge/catalogs/Hymmen_Press_Review_2025/pdf/complete.pdf",
-    "date": "2026-08-31"
+    "date": "46265",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Maschinenfabrik Köppern GmbH & Co. KG",
@@ -795,9 +1190,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Hattingen",
     "industry": "Schwermaschinen- und Anlagenbau / Walzenpressen",
+    "score": 73,
+    "priority": "B",
     "need": "Aktuelle Fertigung auf rund 12.000 m² plus 1.200 m² Schwerlastmontage; 5-Achs-Bearbeitung, Dreischichtbetrieb sowie mechanische und elektrische Montage.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://koeppern-international.com/en/technologie/manufacturing/ | https://www.koeppern-international.com/locations/germany/hattingen/",
-    "date": "2026-08-31"
+    "date": "46265",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "RIPPERT GmbH & Co. KG",
@@ -805,9 +1205,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Herzebrock-Clarholz",
     "industry": "Anlagenbau / Fördertechnik / Automation",
+    "score": 96,
+    "priority": "A",
     "need": "Aktuell ausgeschriebene Rollen im technischen und kaufmännischen Einkauf; Fördertechnik-Team nennt ausdrücklich den Einkauf passender Komponenten und Lieferantenangebote.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.rippert.de/ueber-uns | https://www.rippert.de/karriere/stellenangebote/7/monteur-fuer-industriemontagen-mwd | https://www.rippert.de/karriere/einblicke/marco-frasch",
-    "date": "2026-08-31"
+    "date": "46265",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Saurer Spinning Solutions GmbH & Co. KG",
@@ -815,9 +1220,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Übach-Palenberg",
     "industry": "Textilmaschinenbau / Automation",
+    "score": 92,
+    "priority": "A",
     "need": "2025 Markthochlauf der vollautomatischen Autocoro 11 mit 816 Spinnstellen und neuen energieeffizienten Antrieben; Werk Übach-Palenberg investiert 2026 in Infrastruktur.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://saurer.com/media/6619/download/2025-03-17_Press_Release_Autocoro_11_Driven_by_innovation.pdf?inline=true&v=2 | https://www.academy.saurer.com/media/6917/download/2025-10-16_Umsetzungsplan%20Energieeinsparma%C3%9Fnahmen%20SPI%202025%20bis%202028_DE.pdf?inline=true&v=3",
-    "date": "2026-08-31"
+    "date": "46265",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "SMS group GmbH",
@@ -825,9 +1235,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Mönchengladbach",
     "industry": "Metallurgischer Maschinen- und Anlagenbau",
+    "score": 87,
+    "priority": "A",
     "need": "2025 positiver Auftragstrend und Ausbau von Service, Modernisierung und Anlagenexpansion; neuer Campus bündelt rund 1.500 Fachkräfte für künftige Anlagenentwicklungen.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.sms-group.com/es-es/press-and-media/press-releases/press-release-detail/sms-group-continues-positive-development-and-improves-operating-result | https://www.sms-group.com/de-de/company/standorte/weltweites-netzwerk/sms-campus",
-    "date": "2026-08-31"
+    "date": "46265",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Venjakob Maschinenbau GmbH & Co. KG",
@@ -835,9 +1250,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Rheda-Wiedenbrück",
     "industry": "Sondermaschinen- und Anlagenbau / Beschichtungstechnik",
+    "score": 88,
+    "priority": "A",
     "need": "Maßgeschneiderte Anlagenlösungen aus zwei deutschen Produktionsstandorten; 2024 dokumentiertes HEC-Hochvakuum-/Beschichtungssystem und 8.000 m² Produktionserweiterung.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.venjakob.de/unternehmen | https://www.venjakob.de/fileadmin/user_upload/Case_Studies/pdf/Automobil/HEC-VERFAHREN.pdf",
-    "date": "2026-08-31"
+    "date": "46265",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "CLAAS Selbstfahrende Erntemaschinen GmbH",
@@ -845,9 +1265,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Harsewinkel",
     "industry": "Landmaschinenbau / Automation",
+    "score": 91,
+    "priority": "A",
     "need": "2025 neues Vorfertigungszentrum für rund 30 Mio. EUR mit drei Roboteranlagen; Produkt- und Investitionsoffensive mit JAGUAR 1000, AXION 9 und weiteren Baureihen.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.claas.com/de-de/presse/pressemitteilungen/2025-07-11-vorfertigungszentrum | https://www.claas.com/caas/v1/media/1328992/data/0bb16aa82047a1b3763a4db888be1465 | https://recruiting.claas.com/job/Harsewinkel-Student-%28mwd%29-CLAAS-Inside-im-Bereich-Industrialisierung-NW-33428/792886802/",
-    "date": "2026-08-31"
+    "date": "46265",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Reifenhäuser Gruppe",
@@ -855,9 +1280,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Troisdorf; Heinsberg",
     "industry": "Kunststoffextrusionsmaschinen und Anlagenbau",
+    "score": 94,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: K 2025 mit neuer EVO-GEN3-Blasfolienanlage, EVEREX-Flachfolienanlage und neuen Ultra-Dies; Entwicklung, Fertigung und Technikum in Troisdorf.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://reifenhauser.com/de/unternehmen/media/news-and-stories/pressemitteilungen/k-messe-2025",
-    "date": "2026-09-09"
+    "date": "2026-09-09 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Achenbach Buschhütten GmbH & Co. KG",
@@ -865,9 +1295,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Kreuztal-Buschhütten; Kreuztal-Kredenbach",
     "industry": "Walzwerk-, Folienschneid- und Anlagenbau",
+    "score": 94,
+    "priority": "A",
     "need": "Starkes Signal: neues 20.000-m²-Logistikzentrum nach deutlichem Auftragseingangsanstieg; Material- und Anlagenkomponentenversorgung der Produktion in Buschhütten wird erweitert.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.achenbach.de/en/company/newsroom/article/achenbach-opens-new-logistics-centre-in-kreuztal-kredenbach/ | https://www.achenbach.de/de/unternehmen/newsroom/artikel/wechsel-in-der-fertigungsleitung-bei-achenbach-dieter-steger-verabschiedet-achim-niwar-uebernimmt/",
-    "date": "2026-09-09"
+    "date": "2026-09-09 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Hennecke GROUP / Hennecke GmbH",
@@ -875,9 +1310,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Sankt Augustin",
     "industry": "Maschinen und Anlagen für Polyurethanverarbeitung",
+    "score": 93,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: K 2025 mit Next-Generation-Maschinen und FOCUS2030; neues TECHCENTER mit über 1.000 m² erweitert Entwicklungskapazitäten am Stammsitz.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.hennecke.com/sites/default/files/downloads/pi_hennecke_at_k_fair_2025_final_en.pdf | https://www.hennecke.com/en/news/ceremonial-opening-fsk-polyurethane-conference-hennecke-expands-its-development-capabilities | https://www.hennecke.com/sites/default/files/downloads/hennecke_group_esg_report_2023_en.pdf",
-    "date": "2026-09-09"
+    "date": "2026-09-09 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Alfred H. Schütte GmbH & Co. KG",
@@ -885,9 +1325,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Köln-Poll",
     "industry": "Werkzeugmaschinenbau",
+    "score": 85,
+    "priority": "A",
     "need": "Mittleres aktuelles Signal: kundenspezifische, modulare 5-Achs-CNC-Schleifmaschinen; aktuelle Automatisierungsstelle entwickelt Maschinensteuerung und Antriebstechnik weiter.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.schuette.de/en/company | https://www.schuette.de/karriere/stellenanzeigen/default-87e8b1132ae91bf1052ed6fa87e23eab",
-    "date": "2026-09-09"
+    "date": "2026-09-09 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Siempelkamp Group",
@@ -895,9 +1340,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Krefeld",
     "industry": "Maschinen- und Anlagenbau; Pressen; AGV-Systeme",
+    "score": 74,
+    "priority": "B",
     "need": "Mittleres Signal: Systemlieferant für Pressenlinien, komplette Anlagen und fahrerlose Transportsysteme; 2025 strategischer Fokus auf neue Technologien und Digitalisierung.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.siempelkamp.com/company/about-us | https://www.siempelkamp.com/en/latest/news/best-practice-erschliessen-zukunft-gestalten-siempelkamp-tritt-dem-maschinenraum-bei/ | https://lohnfertigung.siempelkamp.com/ueber-uns/",
-    "date": "2026-09-09"
+    "date": "2026-09-09 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Moba Group",
@@ -905,9 +1355,14 @@ window.LEADS = [
     "region": "Niederlande",
     "location": "Barneveld",
     "industry": "Eier-Sortier-, Verpackungs- und Verarbeitungsmaschinen",
+    "score": 95,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: neue automatisierte Produktfamilien Omnia PX, Mopack EP und Vision Shell Inspector; fünf Produktionsstätten und 125 F&E-Beschäftigte.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://moba.net/de/unser-unternehmen/ | https://moba.net/customer-stories/sri-lung-pang-farm-our-customer-from-thailand/",
-    "date": "2026-09-09"
+    "date": "2026-09-09 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Viscon Group",
@@ -915,9 +1370,14 @@ window.LEADS = [
     "region": "Niederlande",
     "location": "'s-Gravendeel",
     "industry": "Agro-/Food-Automation, Verpackungslogistik und Intralogistik",
+    "score": 94,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: 2026 Auftrag für eine hochautomatisierte Verpackungsstätte der Looije Group mit integrierter interner Logistik und Drittmaschinen.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://viscongroup.eu/about-us/ | https://viscongroup.eu/news/looije-group-chooses-viscon-as-strategic-automation-partner-for-new-production-location/",
-    "date": "2026-09-09"
+    "date": "2026-09-09 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "LAN Handling Technologies",
@@ -925,9 +1385,14 @@ window.LEADS = [
     "region": "Niederlande",
     "location": "Berkel-Enschot; Halfweg",
     "industry": "Food-Handling, End-of-Line-Automation und Robotik",
+    "score": 89,
+    "priority": "A",
     "need": "Starkes technisches Signal: über 500 installierte Handling-Systeme; eigene mechanische Konstruktion, interne Montage und Tests; automatisierte Verpackungs- und Robotiklinien.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://lanhandling.com/nl/over-ons/ | https://lanhandling.com/nl/projecten/ | https://lanhandling.com/nl/end-of-line-automatisering/",
-    "date": "2026-09-09"
+    "date": "2026-09-09 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Niverplast B.V.",
@@ -935,9 +1400,14 @@ window.LEADS = [
     "region": "Niederlande",
     "location": "Nijverdal",
     "industry": "Verpackungsmaschinen und robotische Pick-and-Place-Systeme",
+    "score": 93,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: jüngst ausgelieferte Linie mit zwölf Robotern für 14.000 Baguettes pro Stunde; Entwicklung neuer PaperBagger-Lösungen und bauliche Erweiterung am Hauptsitz.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://niverplast.com/news-and-events/from-plastic-packaging-to-packaging-lines | https://niverplast.com/news-and-events/gerrit-jan-nieuwenhuis-runs-an-extraordinary-company-with-niverplast",
-    "date": "2026-09-09"
+    "date": "2026-09-09 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Meyn Food Processing Technology B.V.",
@@ -945,9 +1415,14 @@ window.LEADS = [
     "region": "Niederlande",
     "location": "Oostzaan",
     "industry": "Geflügelverarbeitungsmaschinen und Automation",
+    "score": 92,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: 2025/26 neue hochautomatisierte Physic-Deboner- und Precutter-Module mit Karussell- und Linienintegration; aktuelle Stellen in Machine Development und Operations.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.meyn.com/solutions/deboning/physic-in-line-drum-deboner/ | https://www.meyn.com/solutions/physic-cut-up-line/precutter-whole-legs/ | https://www.ctbinc.com/business-units/ | https://nl.linkedin.com/company/meyn/life",
-    "date": "2026-09-09"
+    "date": "2026-09-09 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Kautex Maschinenbau System GmbH",
@@ -955,9 +1430,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Bonn",
     "industry": "Extrusionsblasformmaschinen / Verpackungsmaschinen",
+    "score": 94,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: 2025 Relaunch der modularen KEB-GREY-Blasformplattform, Ausbau des Technikums und Entwicklung neuer Produktsegmente; Einkaufsbedingungen und Partner-/Lieferantenbezug sind öffentlich dokumentiert.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.kautex-group.com/de/ | https://www.kautex-group.com/de/unkategorisiert/kautex-maschinenbau-re-launches-keb-series-a-flexible-future-ready-blow-molding-platform-for-maximum-efficiency/ | https://www.kautex-group.com/en/unkategorisiert/kautex-announces-eike-wedell-as-new-ceo/ | https://www.kautex-group.com/de/download/13987/",
-    "date": "2026-09-11"
+    "date": "46276",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "TEEPACK Spezialmaschinen GmbH & Co. KG",
@@ -965,9 +1445,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Meerbusch",
     "industry": "Tee- und Lebensmittel-Verpackungsmaschinen",
+    "score": 85,
+    "priority": "A",
     "need": "Mittleres technisches Signal: TEEPACK entwickelt kundenspezifische, vollautomatische Abfüll- und Verpackungslinien, betreibt in Meerbusch eine hohe Fertigungstiefe und einen modernen Maschinenpark; die laufende Weiterentwicklung der Maschinen ist belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.teepack.com/de/unternehmen/ | https://www.teepack.com/de/produkte/",
-    "date": "2026-09-11"
+    "date": "46276",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Lantech Europe B.V.",
@@ -975,9 +1460,14 @@ window.LEADS = [
     "region": "Niederlande",
     "location": "Malden",
     "industry": "End-of-Line-Verpackungsmaschinen / Fördermodule",
+    "score": 95,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: neue modulare Parcel-Pack- und Case-Handling-Systeme, Konstruktion und Montage in Malden sowie eine neue, auf weiteres Wachstum ausgelegte Niederlassung; etwa 1.000 Maschinen pro Jahr werden am Standort gefertigt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.lantech.com/news/news-nieuw-onderkomen-biedt-lantech-ruimte-voor-groei-en-ambitie/ | https://www.lantech.com/news/lantechs-parcel-pack-system-simplifies-parcel-logistics/ | https://www.lantech.com/news/automation-is-the-key-lantech-trims-shipping-packaging-for-efficiency/",
-    "date": "2026-09-11"
+    "date": "46276",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Royal Kaak / Kaak Food Processing Systems B.V.",
@@ -985,9 +1475,14 @@ window.LEADS = [
     "region": "Niederlande",
     "location": "Terborg",
     "industry": "Industrielle Backwarenmaschinen / Fördertechnik",
+    "score": 98,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: Terborg entwickelt und produziert kundenspezifische Förderbänder, Puffer-, Lager-, Kühl- und Gefriersysteme für komplette Backlinien; aktuelle Ausschreibungen für Taktischen Einkauf und Teamleitung Einkauf belegen laufenden Beschaffungsaufbau.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://kaak.com/locations/kaak-food-processing-systems/?lang=nl | https://www.werkenbijkaak.nl/vacatures/software-engineer-2/ | https://www.linkedin.com/company/royalkaak/jobs",
-    "date": "2026-09-11"
+    "date": "46276",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "JASA Packaging Solutions B.V.",
@@ -995,9 +1490,14 @@ window.LEADS = [
     "region": "Niederlande",
     "location": "Obdam",
     "industry": "Lebensmittel-Verpackungsmaschinen / Linienintegration",
+    "score": 94,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: 2025 Markteinführung und Ausbau der NXXT-Generation sowie komplette kundenspezifische Verpackungslinien; offizielle Projektbeschreibung nennt ausdrücklich Purchaser, Mechanical Engineering und interne Montage.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.jasapackaging.com/nl/vacatures | https://www.jasapackaging.com/news-and-events/nxxt-vertical-packaging-leafy-greens | https://www.jasapackaging.com/about-jasa/family-business-jasa-goes-to-the-usa/?lang=en",
-    "date": "2026-09-11"
+    "date": "46276",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "SELO B.V.",
@@ -1005,9 +1505,14 @@ window.LEADS = [
     "region": "Niederlande",
     "location": "Hengelo",
     "industry": "Food- und Petfood-Prozessanlagen / Verpackungsautomation",
+    "score": 89,
+    "priority": "A",
     "need": "Mittleres bis starkes aktuelles Signal: neue modulare Food- und Petfood-Linien mit Förderbändern, Dampf­tunneln und integrierbarer Verpackungstechnik; mehr als 2.500 Projekte in 100 Ländern und laufende Engineering-Stellen sind belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://selo.com/careers/ | https://selo.com/solutions/pet-food-processing/ | https://selo.com/solutions/fruit-processing/ | https://www.linkedin.com/company/selo",
-    "date": "2026-09-11"
+    "date": "46276",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Foodmate B.V. / Foodmate, a Duravant Company",
@@ -1015,9 +1520,14 @@ window.LEADS = [
     "region": "Niederlande",
     "location": "Numansdorp",
     "industry": "Geflügelverarbeitungsmaschinen / Automation",
+    "score": 92,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: 2025/26 Ausbau der ULTiMATE-/APEX-Systeme und umfangreiche Präsentation neuer automatisierter Verarbeitungsmaschinen; Engineering, Produktion, Service und Support sitzen gemeinsam in Numansdorp.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://foodmateglobal.com/ | https://foodmateglobal.com/wp-content/uploads/2025/01/InsideTrack_IPPEE2025_Digital.pdf | https://www.linkedin.com/company/foodmateglobal",
-    "date": "2026-09-11"
+    "date": "46276",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "JBT Marel / Marel Poultry B.V.",
@@ -1025,9 +1535,14 @@ window.LEADS = [
     "region": "Niederlande",
     "location": "Boxmeer",
     "industry": "Lebensmittel- und Geflügelverarbeitungsmaschinen",
+    "score": 93,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: 2025/26 neue konfigurierbare Module für In-line-Air-Chilling, Prototypen/Nullserien und kundenspezifische Linienprojekte bis 25 Mio. Euro; Produktion, Engineering und Automatisierung am Standort Boxmeer sind belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://marel.com/nl/careers/vacatures/mbo-hbo-internship-assignment-mechanical-engineering-engineering-19974/ | https://marel.com/nl/careers/vacatures/layout-engineer-19090/ | https://marel.com/nl/careers/vacatures/sales-engineer-19486/",
-    "date": "2026-09-11"
+    "date": "46276",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "PROBAT SE",
@@ -1035,9 +1550,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Emmerich am Rhein",
     "industry": "Lebensmittelmaschinen; Kaffee-, Kakao- und Food-Processing-Anlagen",
+    "score": 95,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: 2025/26 Markteinführung der neuen GT-Rollenmühlen- und Cx70-Röstergeneration sowie Konsolidierung weiterer Food-Technologien unter PROBAT; Entwicklung und Fertigung von Maschinen und Anlagen am Standort Emmerich sind zertifiziert belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.probat.com/careers/professionals/ | https://www.probat.com/newsroom/news/big-performance-small-footprint-probat-releases-innovative-new-gt-roll-grinder/ | https://www.probat.com/newsroom/news/engineered-for-peak-performance-probat-premieres-the-all-new-cx70-drum-roaster/ | https://www.probat.com/assets/PROBAT/dokumente/ISO-9001-10000494478-MSC-RvA-DEU-6-en-US-20250127.pdf",
-    "date": "2026-09-18"
+    "date": "46283",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "SOLLICH KG",
@@ -1045,9 +1565,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Bad Salzuflen",
     "industry": "Süßwaren-, Schokoladen- und Lebensmittelmaschinen",
+    "score": 94,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: modular aufgebaute komplette Riegel-, Pralinen- und Gebäckveredelungsanlagen; zur ProSweets 2025 wurden neue beziehungsweise weiterentwickelte Überziehmaschinen mit breiten Transportbändern präsentiert.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.sollich.com/unternehmen | https://www.sollich.com/ | https://www.ihk.de/lippe-detmold/servicenavigation/presse-und-oeffentlichkeit/pressemeldungen/pressemeldungen2026/august2026/nrw-arbeitsminister-laumann-besucht-sollich-7153168 | https://nfm-mediashop.de/westend/api/daten/messe_1948/backend/quelle/obs/Binary/A1390097/ProSweets%202025_Press%20Preview_SOLLICH%20KG_english.pdf",
-    "date": "2026-09-18"
+    "date": "46283",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "CSi Industries B.V. / CSi Palletising",
@@ -1055,9 +1580,14 @@ window.LEADS = [
     "region": "Niederlande",
     "location": "Raamsdonksveer",
     "industry": "End-of-Line-Automation, Palettier- und Fördersysteme",
+    "score": 99,
+    "priority": "A",
     "need": "Starkes aktuelles Beschaffungssignal: CSi konstruiert und montiert Förder- und Palettieranlagen; ein offizielles Interview von Juli 2025 benennt einen Strategic Procurement Specialist, der Materialien und Third Party Equipment beschafft und Lieferantenpartnerschaften verhandelt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://career.csiportal.com/general/mini-interview-strategic-procurement-specialist-gijs-hoefnagels/ | https://career.csiportal.com/job-opening/321122-senior-field-service-specialist-3/ | https://www.csiportal.com/palletiser/ | https://www.csiportal.com/wp-content/uploads/2025/01/CSi-Industries-B.V.-ISO-27001-certificate.pdf",
-    "date": "2026-09-18"
+    "date": "46283",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Qimarox B.V.",
@@ -1065,9 +1595,14 @@ window.LEADS = [
     "region": "Niederlande",
     "location": "Harderwijk",
     "industry": "Material Handling, Vertikalförderer und Palettiermodule",
+    "score": 96,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: neue 6.400-m²-Produktionsphase mit Ausbaureserve; 2025 bestätigt Qimarox die Fertigung aller modularen Produktlifte und Palettenförderer im neuen Werk in Harderwijk.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.qimarox.com/about-qimarox/ | https://www.qimarox.com/blog/2023/constructionsign-production-site/ | https://www.qimarox.com/blog/2025/palletizing-to-next-floors/ | https://www.qimarox.com/contact/",
-    "date": "2026-09-18"
+    "date": "46283",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Sormac B.V.",
@@ -1075,9 +1610,14 @@ window.LEADS = [
     "region": "Niederlande",
     "location": "Venlo",
     "industry": "Maschinen und Linien für Gemüse- und Fruchtverarbeitung",
+    "score": 88,
+    "priority": "A",
     "need": "Mittleres aktuelles Signal: Sormac bietet vollständige Verarbeitungs- und Linienlösungen mit eigener Entwicklung, Fertigung und Testzentrum in Venlo; die 2025 erneuerte Unternehmensdarstellung betont den Ausbau globaler Komplettlösungen.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://sormac.com/nl-nl/werken-bij-sormac | https://sormac.com/en-gb/about-sormac | https://sormac.com/nl-nl/over-sormac",
-    "date": "2026-09-18"
+    "date": "46283",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "KELLER HCW GmbH",
@@ -1085,9 +1625,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Ibbenbüren-Laggenbeck",
     "industry": "Maschinen- und Anlagenbau, Automation, Robotiklösungen",
+    "score": 98,
+    "priority": "A",
     "need": "Starkes aktuelles Beschaffungssignal: KELLER entwickelt und produziert Maschinen- und Automationslösungen; die offizielle Einkaufsseite lädt Lieferanten in eine Lieferantendatenbank ein und nennt unter anderem Antriebe, Getriebemotoren, Guss-, Schmiede- und Schweißteile als Warengruppen.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.keller.de/kcs/jobs-karriere/ | https://www.keller.de/kcs/ueber-uns/einkauf/ | https://www.keller.de/en/ims/",
-    "date": "2026-09-25"
+    "date": "2026-09-25 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Dinnissen Process Technology B.V.",
@@ -1095,9 +1640,14 @@ window.LEADS = [
     "region": "Niederlande",
     "location": "Sevenum",
     "industry": "Prozessmaschinen und komplette Linien für Pulver, Pellets und Granulate",
+    "score": 97,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: Dinnissen errichtet am Hauptsitz ein 2.000-m²-D-Innocenter, in dem innovative Maschinen und komplette Produktionslinien aufgebaut, getestet und in Betrieb genommen werden; Fertigstellung ist für Anfang 2026 vorgesehen.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://dinnissen.com/en/news/dinnissen-builds-2-000-m2-d-innocenter-for-testing-and-innovation | https://dinnissen.com/de/stellenangebot/vacature-sales-support | https://dinnissen.com/de/uber-uns/unsere-arbeitsweise",
-    "date": "2026-09-25"
+    "date": "2026-09-25 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Eqraft B.V. / Proqraft B.V.",
@@ -1105,9 +1655,14 @@ window.LEADS = [
     "region": "Niederlande",
     "location": "Emmeloord",
     "industry": "Agrar-, Sortier-, Förder- und Verpackungsmaschinen",
+    "score": 93,
+    "priority": "A",
     "need": "Starkes bis mittleres Signal: Eqraft konstruiert und baut komplette Fabriken und Linien zum Sortieren, Lagern, Wiegen und Verpacken. Der 6.600-m²-Hauptsitz in Emmeloord umfasst Lager, Montage und Versand; das Team wuchs von 20 auf 100 Personen.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.eqraft.com/ | https://www.werkenbijeqraft.nl/ | https://www.eqraft.com/news/eqraft-opens-brand-new-head-office-in-emmeloord",
-    "date": "2026-09-25"
+    "date": "2026-09-25 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "KSE Process Technology B.V.",
@@ -1115,9 +1670,14 @@ window.LEADS = [
     "region": "Niederlande",
     "location": "Bladel",
     "industry": "Dosier-, Wiege- und Prozessanlagen für Tiernahrung und Schüttgüter",
+    "score": 91,
+    "priority": "A",
     "need": "Mittleres bis starkes Signal: KSE liefert modulare Dosier- und Wiegesysteme sowie integrierte Prozesslösungen. Eine aktuelle Stelle für Mechanical Project Engineering nennt ausdrücklich Konstruktion, Montage und Umsetzung mechatronischer Systeme mit zugekauften Komponenten Dritter.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.ksegroup.com/en | https://www.ksegroup.com/en/careers | https://www.bom.nl/en/articles/we-are-getting-to-know-the-american-market-better-and-better",
-    "date": "2026-09-25"
+    "date": "2026-09-25 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Schmale Maschinenbau GmbH",
@@ -1125,9 +1685,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Altena",
     "industry": "Sondermaschinenbau und modulare Umformmaschinen",
+    "score": 90,
+    "priority": "A",
     "need": "Mittleres bis starkes Signal: Schmale entwickelt modulare, kundenspezifische Umformmaschinen für Draht, Band und Rohr. Zur Hausmesse 2024 wurden drei neu entwickelte Anlagen für unterschiedliche Branchen vorgestellt; die größte Anlage der Firmengeschichte wurde abgenommen.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.schmale-gmbh.de/ | https://www.schmale-gmbh.de/en/news/press-releases | https://www.schmale-gmbh.de/aktuelles/stellenmarkt/detail?tx_news_pi1%5Bnews%5D=7",
-    "date": "2026-09-25"
+    "date": "2026-09-25 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "transnova-RUF Verpackungs- und Palettiertechnik GmbH",
@@ -1135,9 +1700,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Ansbach",
     "industry": "Verpackungsautomation, Robotik, End-of-Line und Palettiertechnik",
+    "score": 100,
+    "priority": "A",
     "need": "Starkes aktuelles Signal: transnova-RUF realisiert jährlich 60 bis 80 kundenspezifische Automatisierungsprojekte, integriert mehr als 200 Roboter pro Jahr und nennt einen eigenen Einkauf samt Ansprechpartner. Das Design-to-Order-Modell und die Zusammenarbeit mit Komponenten- und Systempartnern belegen wiederkehrenden externen Komponentenbedarf, ohne eine konkrete Bestellung zu bestätigen.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://transnova-ruf.de/unternehmen/ | https://transnova-ruf.de/unternehmen/geschichte/ | https://transnova-ruf.de/kontakt/",
-    "date": "2026-09-29"
+    "date": "2026-09-29 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "KOCH Pac-Systeme GmbH",
@@ -1145,9 +1715,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Pfalzgrafenweiler",
     "industry": "Verpackungs-, Montage- und Abfüllautomation",
+    "score": 100,
+    "priority": "A",
     "need": "Starkes Beschaffungssignal: KOCH betreibt eine offizielle Lieferantenseite, lädt zur Bewerbung als Geschäftspartner ein und veröffentlicht Fertigungsrichtlinien für nach KOCH-Vorgaben gefertigte Teile. Turnkey-Linien für Verpackung, Montage und Abfüllung schaffen einen klaren Fit für Antriebselemente, Zeichnungsteile und Baugruppen.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.koch-pac-systeme.com/einkauf/ | https://www.koch-pac-systeme.com/ | https://www.koch-pac-systeme.com/unternehmen/uhlmann-group/",
-    "date": "2026-09-29"
+    "date": "2026-09-29 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "WIPOTEC GmbH",
@@ -1155,9 +1730,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Kaiserslautern",
     "industry": "Wäge-, Inspektions-, Kennzeichnungs- und Logistiksysteme",
+    "score": 97,
+    "priority": "A",
     "need": "Starkes Beschaffungssignal: WIPOTEC nennt ein eigenes Einkaufsteam und die größten Materialgruppen ausdrücklich als Elektronik, Edelstahl-Blechteile und Gehäuse sowie Dreh- und Frästeile. Das Unternehmen verfolgt eine regionale Beschaffungsstrategie und veröffentlicht Einkaufsbedingungen; damit ist CNC-/Sonderteilbedarf direkt belegt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.wipotec.com/de/unternehmen/ueber-uns | https://www.wipotec.com/de/verantwortung | https://www.wipotec.com/de/verantwortung/code-of-conduct | https://www.wipotec.com/fileadmin/media/csr/general-terms-and-conditions-of-purchase_.pdf",
-    "date": "2026-09-29"
+    "date": "2026-09-29 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Rademaker B.V.",
@@ -1165,9 +1745,14 @@ window.LEADS = [
     "region": "Niederlande",
     "location": "Culemborg",
     "industry": "Industrielle Bäckereimaschinen, Automatisierung und Produktionslinien",
+    "score": 98,
+    "priority": "A",
     "need": "Starkes Beschaffungssignal: Rademaker entwickelt kundenspezifische Produktionslinien, baut und testet komplette Anlagen in Culemborg und erklärt ausdrücklich, dass ein Teil der Arbeit an Lieferanten ausgelagert wird. Procurement, Supply Chain Planning und Manufacturing Engineering koordinieren die Teileversorgung.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://careers.rademaker.com/over-rademaker/ | https://careers.rademaker.com/en/about-rademaker/ | https://rademaker.com/company/about-rademaker/",
-    "date": "2026-09-29"
+    "date": "2026-09-29 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Royal Houdijk",
@@ -1175,9 +1760,14 @@ window.LEADS = [
     "region": "Niederlande",
     "location": "Vlaardingen",
     "industry": "Robotik, Bäckereiverarbeitung und Verpackungsautomation",
+    "score": 98,
+    "priority": "A",
     "need": "Starkes Beschaffungssignal: Royal Houdijk sucht aktuell Verstärkung für Strategic Purchasing; die Stelle umfasst Lieferantenmarkt, Produkte, Systeme und Services für kundenspezifische Maschinenbauprojekte. Zusätzlich bestätigt die Unternehmenshistorie, dass Reparatur- und andere Maschinenbauaktivitäten an vertrauenswürdige Partner ausgelagert wurden.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://houdijk.com/about-us/ | https://houdijk.com/nl/over-ons/ | https://houdijk.com/nl/werken-bij/traineeship-assembly-technician/",
-    "date": "2026-09-29"
+    "date": "2026-09-29 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "VEMAG Maschinenbau GmbH",
@@ -1185,9 +1775,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Verden (Aller)",
     "industry": "Lebensmittelmaschinen, Füll- und Portioniersysteme, Verpackungsautomation",
+    "score": 100,
+    "priority": "A",
     "need": "Sehr starkes aktuelles Beschaffungssignal: VEMAG steuert mit einem 16-köpfigen Einkauf mehr als 60.000 aktive Teile, gliedert den Einkauf nach Materialgruppen und sucht aktuell einen strategischen Einkäufer für Dreh-, Fräs- und Sonderkonstruktionsteile. Zusätzlich entsteht seit 2025 eine neue Produktionshalle.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.vemag.de/unternehmen/ | https://www.vemag.de/news-stories/bme-procurement-excellence-award-2025/ | https://job.vemag.de/blog/jobs/strategischer-einkaeufer/ | https://www.vemag.de/news-stories/spatenstich-fuer-neue-produktionshalle/",
-    "date": "2026-10-02"
+    "date": "2026-10-02 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "HEUFT SYSTEMTECHNIK GMBH",
@@ -1195,9 +1790,14 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Burgbrohl",
     "industry": "Inspektions-, Etikettier- und Behälterfluss-Systeme für Getränke, Lebensmittel und Pharma",
+    "score": 99,
+    "priority": "A",
     "need": "Sehr starkes Beschaffungssignal: HEUFT beschreibt öffentlich den Einkauf mechanischer und elektronischer Konstruktionsteile, kompletter Baugruppen, DIN-/Normteile und Handelsartikel nach HEUFT-Vorgaben. Der Einkauf sucht aktiv neue leistungsfähige Lieferanten; aktuell ist zudem eine Einkäuferstelle ausgeschrieben.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://heuft.com/de/aktuelles/news-uebersicht/news-archiv/qualitaetsmanagement-im-einkauf-der-heuft-systemtechnik-gmbh | https://heuft.com/de/ueber-uns/jobs-karriere | https://heuft.com/de/ueber-uns/heuft-company-profile | https://heuft.com/de/kontakt",
-    "date": "2026-10-02"
+    "date": "2026-10-02 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "VMI Holland B.V. / VMI Group",
@@ -1205,9 +1805,14 @@ window.LEADS = [
     "region": "Niederlande",
     "location": "Epe",
     "industry": "Sondermaschinenbau für Reifen-, Gummi-, Dosen- und Pflegeindustrie",
+    "score": 98,
+    "priority": "A",
     "need": "Starkes Beschaffungssignal: Die offizielle Wertschöpfungskette nennt Mechanical OEM und Mechanical Outsourcing ausdrücklich als Zulieferkategorien. Der Einkauf für Epe und Leszno wird in Epe gesteuert; VMI bevorzugt lokale Lieferanten und hat 2026 neue modulare Automationsmaschinen eingeführt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://vmi-group.com/app/uploads/2025/05/VMI-Sustainability-Report-2024-final.pdf | https://vmi-group.com/company-2/csr/ | https://vmi-group.com/news/vmi-launches-next-generation-can-washer-the-vmi-can-washer-2-0/ | https://vmi-group.com/contact/",
-    "date": "2026-10-02"
+    "date": "2026-10-02 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Tummers Food Processing Solutions",
@@ -1215,9 +1820,14 @@ window.LEADS = [
     "region": "Niederlande",
     "location": "Hoogerheide",
     "industry": "Lebensmittelmaschinen und komplette Prozesslinien für Kartoffelverarbeitung",
+    "score": 92,
+    "priority": "A",
     "need": "Mittleres bis starkes technisches Signal: Tummers entwickelt und fertigt in den Niederlanden komplette kundenspezifische Prozesslinien mit Förderbändern, Schneckenförderern, Sortier-, Wasch-, Schneid- und Trocknungsmaschinen. Die Produktdokumentation nennt Antriebswellen, Motoren, Lager, Rollen, Ketten und Riemen als relevante Verschleißteile.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://tummers.nl/en/new-machines/ | https://tummers.nl/app/uploads/2025/12/Corporate-USA-2025.pdf | https://tummers.nl/nieuws/50-years-of-tummers/ | https://tummers.nl/en/refurbished-machines",
-    "date": "2026-10-02"
+    "date": "2026-10-02 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   },
   {
     "company": "Weber Food Technology SE & Co. KG",
@@ -1225,8 +1835,88 @@ window.LEADS = [
     "region": "Deutschland",
     "location": "Breidenbach; weitere deutsche Produktionsstandorte",
     "industry": "Lebensmittelverarbeitung, Robotik, Transport- und Verpackungsautomation",
+    "score": 89,
+    "priority": "A",
     "need": "Mittleres aktuelles technisches Signal: Weber baut und integriert vollständige Linien aus Schneiden, Transport, Pick-and-place, Verpackung und End-of-Line. Aktuelle Produktlinien wie weSHUTTLE, wePICK und wePACK enthalten hochdynamische Förder-, Positionier- und Verpackungsachsen; 2026 wurden weitere automatisierte Linienlösungen eingeführt.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
     "sources": "https://www.weberweb.com/de/unternehmen/standorte/breidenbach/ | https://www.weberweb.com/our-solutions/concepts/ | https://www.weberweb.com/our-solutions/automation/transportion-systems/weshuttle/ | https://www.weberweb.com/company/news/weber-maschinenbau-becomes-weber-food-technology/",
-    "date": "2026-10-02"
+    "date": "2026-10-02 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
+  },
+  {
+    "company": "SIKORA GmbH",
+    "website": "https://sikora.net/",
+    "region": "Deutschland",
+    "location": "Bremen",
+    "industry": "Mess-, Regel-, Inspektions- und Sortiersysteme",
+    "score": 100,
+    "priority": "A",
+    "need": "Sehr starkes Beschaffungssignal: SIKORA betreibt eine offene Lieferantenbewerbung und nennt ausdrücklich Drehteile, Frästeile, Blechbiegeteile, Schweißbaugruppen und mechanische Baugruppen. Entwicklung und Produktion der Mess-, Inspektions- und Sortiersysteme erfolgen am Stammsitz Bremen.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
+    "sources": "https://sikora.net/lieferantenbewerbung/ | https://sikora.net/en/company/about-sikora/ | https://sikora.net/unternehmen/karriere/",
+    "date": "2026-10-09 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
+  },
+  {
+    "company": "Integrated Mechanization Solutions B.V. (IMS)",
+    "website": "https://ims-nl.com/",
+    "region": "Niederlande",
+    "location": "Almelo",
+    "industry": "Präzisionsautomation, Sondermaschinenbau und Medizintechnik",
+    "score": 99,
+    "priority": "A",
+    "need": "Sehr starkes aktuelles Beschaffungssignal: IMS sucht einen Technical Buyer. Die offizielle Ausschreibung nennt Lieferantensuche, Rahmenverträge sowie den Einkauf kundenspezifischer technischer Produkte und Teilsysteme und verlangt Erfahrung mit Zerspanung und Montage. Procurement beschafft nach Kundauftrag alle benötigten Maschinenkomponenten.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
+    "sources": "https://werkenbij.ims-nl.com/en/fields-of-expertise/procurement/ | https://werkenbij.ims-nl.com/vacatures/technical-buyer/ | https://ims-nl.com/about-us/",
+    "date": "2026-10-09 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
+  },
+  {
+    "company": "Sames GmbH",
+    "website": "https://www.sames.com/germany/de",
+    "region": "Deutschland",
+    "location": "Erftstadt",
+    "industry": "Klebe-, Dichtstoff- und Oberflächenapplikationssysteme",
+    "score": 97,
+    "priority": "A",
+    "need": "Starkes aktuelles Beschaffungssignal: Sames entwickelt und fertigt in Erftstadt komplette Klebesysteme. Eine aktuelle Ausschreibung im technischen Einkauf nennt den Einkauf von Zeichnungsteilen wie Dreh-, Fräs- und Schweißbaugruppen sowie externe Bearbeitungs- und Lohnfertigungsleistungen.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
+    "sources": "https://www.sames.com/germany/de/career | https://karriere.sames.com/ | https://www.stepstone.de/jobs/purchase-assistant/in-k%C3%B6ln",
+    "date": "2026-10-09 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
+  },
+  {
+    "company": "Madern International B.V. / Madern Group",
+    "website": "https://madern.com/",
+    "region": "Niederlande",
+    "location": "Vlaardingen; Raamsdonksveer",
+    "industry": "Verpackungsmaschinen, Robotik und Post-Press-Automation",
+    "score": 90,
+    "priority": "A",
+    "need": "Mittleres bis starkes aktuelles Signal: Madern bietet kundenspezifische Rotary-Die-Cutter, Hochgeschwindigkeits-Stacker, robotische Finishing-Systeme, Palettierung und Förder-/Reellogistik. 2026 wurde der AutoLoader erneut international vorgestellt und das i-Pack als robotisches Hochgeschwindigkeits-Packmodul ausgebaut.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
+    "sources": "https://madern.com/ | https://madern.com/areas/ | https://madern.com/autoloader-at-interpack-2026/ | https://career.madern.com/language/nl/home-2/?lang=nl | https://www.linkedin.com/company/madern-group",
+    "date": "2026-10-09 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
+  },
+  {
+    "company": "RETSCH GmbH",
+    "website": "https://www.retsch.com/de/",
+    "region": "Deutschland",
+    "location": "Haan",
+    "industry": "Labor- und Analysemaschinen, Mühlen und Siebtechnik",
+    "score": 93,
+    "priority": "A",
+    "need": "Mittleres bis starkes Signal: RETSCH entwickelt Labor-Mühlen, Brecher, Sieb- und Assistiergeräte und brachte 2025 mit der SM 50 eine neue Schneidmühle auf den Markt. Eine aktuelle öffentliche Ausschreibung für die Einkaufsleitung nennt bearbeitete Metallteile, Dreh-/Frästeile und Antriebsmotoren sowie den Ausbau von Lieferantensuche und Lieferantenmanagement.",
+    "next": "Technischen Einkauf anhand der dokumentierten Bedarfssignale und Bönisch-Leistungsbereiche manuell qualifizieren.",
+    "sources": "https://www.retsch.com/de/unternehmen/ | https://www.retsch.com/de/unternehmen/stellenangebote/ | https://www.stepstone.de/jobs/strategischer-einkauf/in-krefeld",
+    "date": "2026-10-09 00:00:00",
+    "status": "Nicht kontaktiert",
+    "contactDate": ""
   }
 ];
