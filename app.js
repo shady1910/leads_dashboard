@@ -1,49 +1,18 @@
 (() => {
   const leads = window.LEADS || [];
-  const els = {
-    rows: document.querySelector("#lead-rows"), search: document.querySelector("#search"),
-    industry: document.querySelector("#industry-filter"), region: document.querySelector("#region-filter"),
-    priority: document.querySelector("#priority-filter"), score: document.querySelector("#score-filter"),
-    status: document.querySelector("#status-filter"), visible: document.querySelector("#visible-count"),
-    total: document.querySelector("#total-count"), latest: document.querySelector("#latest-date"),
-    resultStatus: document.querySelector("#result-status"), empty: document.querySelector("#empty-state"),
-    reset: document.querySelector("#reset")
-  };
-  let sortKey = "company";
-  let sortDirection = 1;
-  const escapeHtml = value => String(value || "").replace(/[&<>"']/g, char => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[char]));
-  const validUrl = value => { try { const url = new URL(value); return ["http:", "https:"].includes(url.protocol) ? url.href : ""; } catch { return ""; } };
-  const firstSource = value => String(value || "").split(/[;|]/).map(v => v.trim()).find(validUrl) || "";
-  const fillSelect = (select, values) => [...new Set(values.filter(Boolean))].sort((a,b) => a.localeCompare(b, "de")).forEach(value => { const option = document.createElement("option"); option.value = option.textContent = value; select.append(option); });
-  fillSelect(els.industry, leads.map(l => l.industry));
-  fillSelect(els.region, leads.map(l => l.region));
-  fillSelect(els.priority, leads.map(l => l.priority));
-  fillSelect(els.status, leads.map(l => l.status));
-  els.total.textContent = leads.length;
-  els.latest.textContent = leads.map(l => l.date).filter(Boolean).sort().at(-1) || "–";
-  const scoreMatches = lead => {
-    const floor = Number(els.score.value || 0);
-    if (!floor) return true;
-    if (floor === 80) return Number(lead.score) >= 80;
-    if (floor === 65) return Number(lead.score) >= 65 && Number(lead.score) < 80;
-    return Number(lead.score) >= 50 && Number(lead.score) < 65;
-  };
-  const render = () => {
-    const query = els.search.value.trim().toLocaleLowerCase("de");
-    const filtered = leads.filter(lead => {
-      const haystack = Object.values(lead).join(" ").toLocaleLowerCase("de");
-      return (!query || haystack.includes(query)) && (!els.industry.value || lead.industry === els.industry.value) && (!els.region.value || lead.region === els.region.value) && (!els.priority.value || lead.priority === els.priority.value) && (!els.status.value || lead.status === els.status.value) && scoreMatches(lead);
-    }).sort((a,b) => (sortKey === "score" ? Number(a[sortKey] || 0) - Number(b[sortKey] || 0) : String(a[sortKey] || "").localeCompare(String(b[sortKey] || ""), "de", {numeric:true})) * sortDirection);
-    els.rows.innerHTML = filtered.map((lead, index) => {
-      const website = validUrl(lead.website), source = firstSource(lead.sources), priority = String(lead.priority || "C").toLowerCase().replace(/[^a-c]/g, "c");
-      return `<tr style="animation-delay:${Math.min(index * 18, 180)}ms"><td data-label="Unternehmen">${website ? `<a class="company-link" href="${escapeHtml(website)}" target="_blank" rel="noopener">${escapeHtml(lead.company)} ↗</a>` : `<strong>${escapeHtml(lead.company)}</strong>`}<span class="meta">${escapeHtml(lead.region)}</span></td><td data-label="Standort">${escapeHtml(lead.location)}</td><td data-label="Branche">${escapeHtml(lead.industry)}</td><td data-label="Priorität"><span class="badge priority-${priority}">${escapeHtml(lead.priority)}</span></td><td data-label="Bewertung"><span class="score">${escapeHtml(lead.score)}</span></td><td data-label="Status"><span class="lead-status">${escapeHtml(lead.status)}</span>${lead.contactDate ? `<span class="meta">Kontakt: ${escapeHtml(lead.contactDate)}</span>` : ""}</td><td data-label="Bedarf"><span class="signal">${escapeHtml(lead.need)}</span>${source ? `<div class="sources"><a href="${escapeHtml(source)}" target="_blank" rel="noopener">Quelle öffnen ↗</a></div>` : ""}</td><td data-label="Nächster Schritt"><span class="next">${escapeHtml(lead.next)}</span></td><td data-label="Recherche">${escapeHtml(lead.date)}</td></tr>`;
-    }).join("");
-    els.visible.textContent = filtered.length;
-    els.resultStatus.textContent = `${filtered.length} von ${leads.length} Unternehmen angezeigt`;
-    els.empty.hidden = filtered.length !== 0;
-  };
-  [els.search, els.industry, els.region, els.priority, els.score, els.status].forEach(el => el.addEventListener("input", render));
-  els.reset.addEventListener("click", () => { [els.search, els.industry, els.region, els.priority, els.score, els.status].forEach(el => { el.value = ""; }); render(); els.search.focus(); });
-  document.querySelectorAll("[data-sort]").forEach(button => button.addEventListener("click", () => { const key = button.dataset.sort; sortDirection = sortKey === key ? sortDirection * -1 : 1; sortKey = key; render(); }));
-  render();
+  const statuses = ["Nicht kontaktiert", "Kontaktiert - Kein Interesse", "Kontaktiert - Nachfassen"];
+  const $ = id => document.getElementById(id);
+  const els = { rows:$("lead-rows"), search:$("search"), industry:$("industry-filter"), region:$("region-filter"), priority:$("priority-filter"), score:$("score-filter"), status:$("status-filter"), visible:$("visible-count"), total:$("total-count"), result:$("result-status") };
+  const esc = value => String(value || "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  const fill = (el, values) => [...new Set(values.filter(Boolean))].sort((a,b)=>a.localeCompare(b,"de")).forEach(value => el.add(new Option(value,value)));
+  fill(els.industry, leads.map(x=>x.industry)); fill(els.region, leads.map(x=>x.region)); fill(els.priority, leads.map(x=>x.priority)); statuses.forEach(x=>els.status.add(new Option(x,x))); els.total.textContent=leads.length;
+  const scoreMatches = lead => { const n=Number(els.score.value||0), s=Number(lead.score||0); return !n || (n===80?s>=80:n===65?s>=65&&s<80:s>=50&&s<65); };
+  const statusControl = lead => `<select class="row-status" data-company="${esc(lead.company)}" aria-label="Status für ${esc(lead.company)}">${statuses.map(s=>`<option${s===lead.status?' selected':''}>${esc(s)}</option>`).join('')}</select><span class="save-state" aria-live="polite">${lead.contactDate?`Kontakt: ${esc(lead.contactDate)}`:''}</span>`;
+  function render(message="") { const q=els.search.value.trim().toLowerCase(); const rows=leads.filter(l=>(!q||Object.values(l).join(" ").toLowerCase().includes(q))&&(!els.industry.value||l.industry===els.industry.value)&&(!els.region.value||l.region===els.region.value)&&(!els.priority.value||l.priority===els.priority.value)&&(!els.status.value||l.status===els.status.value)&&scoreMatches(l));
+    els.rows.innerHTML=rows.map(l=>`<tr><td><a href="${esc(l.website)}" target="_blank" rel="noopener">${esc(l.company)}</a></td><td>${esc(l.location)}</td><td>${esc(l.industry)}</td><td><b class="badge">${esc(l.priority)}</b></td><td>${esc(l.score)}</td><td>${statusControl(l)}</td><td>${esc(l.need)}</td><td>${esc(l.next)}</td><td>${esc(l.date)}</td></tr>`).join(""); els.visible.textContent=rows.length; els.result.textContent=message||`${rows.length} von ${leads.length} Unternehmen angezeigt`; }
+  async function saveStatus(select) { const lead=leads.find(x=>x.company===select.dataset.company); if(!lead)return; const old=lead.status, next=select.value, note=select.nextElementSibling; select.disabled=true; note.textContent="Wird in SharePoint gespeichert …";
+    try { if(!statuses.includes(next)) throw new Error("Ungültiger Status"); if(!window.STATUS_SYNC_ENDPOINT) throw new Error("SharePoint-Synchronisierung ist nicht konfiguriert"); const response=await fetch(window.STATUS_SYNC_ENDPOINT,{method:"POST",headers:{"Content-Type":"application/json"},credentials:"include",body:JSON.stringify({company:lead.company,status:next,previousStatus:old})}); if(!response.ok) throw new Error(`Speicherung fehlgeschlagen (${response.status})`); const saved=await response.json(); if(saved.status!==next||saved.sharePointSaved!==true) throw new Error("SharePoint hat die Speicherung nicht bestätigt"); lead.status=next; lead.contactDate=saved.contactDate||lead.contactDate; render(`Status für ${lead.company} wurde in SharePoint gespeichert.`); }
+    catch(error){ select.value=old; note.textContent=`Nicht gespeichert: ${error.message}`; els.result.textContent=`Status für ${lead.company} nicht übernommen.`; select.disabled=false; }
+  }
+  els.rows.addEventListener("change",e=>{if(e.target.matches(".row-status"))saveStatus(e.target)}); [els.search,els.industry,els.region,els.priority,els.score,els.status].forEach(el=>el.addEventListener("input",()=>render())); $("reset").addEventListener("click",()=>{[els.search,els.industry,els.region,els.priority,els.score,els.status].forEach(el=>el.value="");render()}); render();
 })();
